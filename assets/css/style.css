@@ -96,3 +96,87 @@ footer {
     border: none;
   }
 }
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.photo-grid img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.event-card { margin-bottom: 1.5rem; }
+.event-meta { font-size: 0.9rem; color: #555; }
+.event-card h2 { margin: 0.5rem 0; }
+.event-card a { color: var(--accent); }
+
+/* ===== Events page ===== */
+
+.year-group {
+  margin-bottom: 3rem;
+}
+
+.events-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+}
+
+.event-card {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.event-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+
+.event-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.event-meta {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.75rem;
+}
+
+.event-description {
+  flex-grow: 1;
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+.event-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.event-actions a,
+.event-actions button {
+  font-size: 0.85rem;
+  padding: 0.35rem 0.6rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background: #f7f7f7;
+  cursor: pointer;
+  text-decoration: none;
+  color: #333;
+}
+
+.event-actions a:hover,
+.event-actions button:hover {
+  background: #eee;
+}

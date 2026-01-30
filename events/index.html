@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Events — IHHSKF</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <style>
+        .year-group {
+            margin-bottom: 2.5rem;
+        }
+
+        .event-item {
+            padding: .75rem 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .event-meta {
+            color: #666;
+            font-size: .95rem;
+            margin: .25rem 0;
+        }
+
+        .fetch-btn {
+            background: #eee;
+            border: 1px solid #ddd;
+            padding: .25rem .5rem;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .modal {
+            position: fixed;
+            inset: 0;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            background: rgba(0, 0, 0, .5);
+        }
+
+        .modal.open {
+            display: flex;
+        }
+
+        .modal-inner {
+            background: white;
+            max-width: 900px;
+            width: 95%;
+            max-height: 80%;
+            overflow: auto;
+            padding: 1rem;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav class="container">
+            <div class="logo"><a href="/">IHHSKF</a></div>
+            <button>☰</button>
+            <ul>
+                <li><a href="/about/history.html">About</a></li>
+                <li><a href="/syllabus/index.html">Syllabus</a></li>
+                <li><a href="/organization/index.html">Organization</a></li>
+                <li><a href="/media/photos.html">Media</a></li>
+                <li><a href="/membership/index.html">Membership</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container">
+        <h1>Events</h1>
+        <div id="events-root"></div>
+    </main>
+
+    <div id="modal" class="modal" role="dialog" aria-modal="true">
+        <div class="modal-inner" id="modal-inner">
+            <button id="modal-close" style="float:right">Close</button>
+            <div id="modal-content"></div>
+        </div>
+    </div>
+
+    <footer class="container">© International Hayashi-Ha Shito-Ryu Karate-Do Federation</footer>
+
+    <script>
+        async function loadEvents() {
+            const res = await fetch('/data/events-by-year.json');
+            const data = await res.json();
+
+            // Sort years descending
+            data.sort((a, b) => b.year - a.year);
+
+            const root = document.getElementById('events-root');
+            root.innerHTML = '';
+
+            data.forEach(group => {
+                const section = document.createElement('section');
+                section.className = 'year-group';
+
+                const yearTitle = document.createElement('h2');
+                yearTitle.textContent = group.year;
+                section.appendChild(yearTitle);
+
+                const grid = document.createElement('div');
+                grid.className = 'events-grid';
+
+                group.events.forEach(ev => {
+                    const dateText = ev.date
+                        ? new Date(ev.date).toLocaleDateString()
+                        : '';
+
+                    const meta = [dateText, ev.location].filter(Boolean).join(' — ');
+
+                    const card = document.createElement('article');
+                    card.className = 'event-card';
+
+                    card.innerHTML = `
+        <h3>${ev.title}</h3>
+        <div class="event-meta">${meta}</div>
+        <div class="event-description">${ev.description || ''}</div>
+        <div class="event-actions">
+          <a href="${ev.url}" target="_blank" rel="noopener">Event page</a>
+        </div>
+      `;
+
+                    grid.appendChild(card);
+                });
+
+                section.appendChild(grid);
+                root.appendChild(section);
+            });
+
+            // Attach fetch handlers
+            document.querySelectorAll('.event-actions button').forEach(btn => {
+                btn.addEventListener('click', async () => {
+                    const url = btn.dataset.url;
+                    openModal('Loading…');
+                    try {
+                        const r = await fetch(url);
+                        if (!r.ok) throw new Error('Fetch failed: ' + r.status);
+                        const html = await r.text();
+
+                        const mainRegex = new RegExp('<main[\\s\\S]*?>[\\s\\S]*?<\\/main>', 'i');
+                        const match = html.match(mainRegex);
+                        openModal(match ? match[0] : html);
+                    } catch (err) {
+                        openModal('<p>Unable to fetch details. ' + err.message + '</p>');
+                    }
+                });
+            });
+        }
+
+
+        function openModal(html) {
+            document.getElementById('modal-content').innerHTML = html;
+            document.getElementById('modal').classList.add('open');
+        }
+        document.getElementById('modal-close').addEventListener('click', () => {
+            document.getElementById('modal').classList.remove('open');
+            document.getElementById('modal-content').innerHTML = '';
+        });
+
+        // initialize
+        loadEvents().catch(err => {
+            document.getElementById('events-root').innerText = 'Unable to load events JSON: ' + err.message;
+        });
+    </script>
+</body>
+
+</html>

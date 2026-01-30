@@ -1,0 +1,258 @@
+[
+    {
+        "year": 2022,
+        "events": [
+            {
+                "id": "2022-hayashi-open",
+                "title": "Hayashi Shito-Ryu Open International Karate Championships",
+                "date": "2022-12-02",
+                "location": "Budapest, Hungary",
+                "description": "Open international karate championships featuring kata and kumite seminars led by senior international instructors.",
+                "url": "/events/2022/hayashi-shito-ryu-open-international-karate-championships.html"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "events": [
+            {
+                "id": "2021-open-cup",
+                "title": "Open Shito-Ryu International Karate Cup 2021",
+                "date": null,
+                "location": null,
+                "description": "Open Shito-Ryu International Karate Cup (event listing found in 2021 index).",
+                "url": "/events/2021/open-shito-ryu-international-karate-cup/",
+                "subpage_fetched": true
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "events": [
+            {
+                "id": "2018-hayashi-open",
+                "title": "Hayashi Shito-Ryu Open International Karate Championships (Dec 7-9, 2018)",
+                "date": "2018-12-07",
+                "location": "Budapest, Hungary",
+                "description": "Open championship, seminars and international dan certification in Budapest.",
+                "url": "/events/2018/open-shito-ryu-championships,-seminars,-and-international-dan-certification-in-budapest,-hungary/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2018-washington-50th",
+                "title": "50th Washington State International Championships",
+                "date": "2018-05-12",
+                "location": "Edmonds, Washington, USA",
+                "description": "50th annual Washington State International Karate Championships.",
+                "url": "/events/2018/50th-washington-state-international-championships/",
+                "subpage_fetched": false
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "events": [
+            {
+                "id": "2017-ihskf-usa-nationals-49th-washington",
+                "title": "IHSKF USA Nationals & 49th Annual Washington State International Championships",
+                "date": null,
+                "location": null,
+                "description": "IHSKF USA Nationals & 49th Annual Washington State International Championships (index listing).",
+                "url": "/events/2017/2017-ihskf-usa-nationals-49th-annual-washington-state-international-championships/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2017-seminars-panama",
+                "title": "Seminars in Panama City (Nov/Dec 2017)",
+                "date": "2017-12-14",
+                "location": "Panama City, Panama",
+                "description": "Technical seminars held in Panama City (site index listed dates Dec 14–18, 2017).",
+                "url": "/events/2017/seminars-in-panama-city/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2017-simon-de-bolivar-cup",
+                "title": "Simon de Bolivar Cup",
+                "date": "2017-11-28",
+                "location": null,
+                "description": "Simon de Bolivar Cup (listed on 2017 index).",
+                "url": "/events/2017/simon-de-bolivar-cup/",
+                "subpage_fetched": false
+            },
+            {
+                "id": "2017-curacao-open",
+                "title": "Curaçao Open 2017",
+                "date": null,
+                "location": "Curaçao",
+                "description": "Curaçao Open (2017 index).",
+                "url": "/events/2017/curacao-open-2017/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2017-seminars-pazos",
+                "title": "Seminars with Shihan Pazos (Orlando, FL)",
+                "date": "2017-11-14",
+                "location": "Orlando, Florida, USA",
+                "description": "Seminars with Shihan Pazos (Nov 14–19, 2017).",
+                "url": "/events/2017/seminars-with-shihan-pazos-in-orlando,florida/",
+                "subpage_fetched": true
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "events": [
+            {
+                "id": "2016-open-world-cup",
+                "title": "Open Shito-Ryu Karate World Cup (Dec 9-11, 2016)",
+                "date": "2016-12-09",
+                "location": "Budapest, Hungary",
+                "description": "Open Shito-Ryu Karate World Cup in Budapest.",
+                "url": "/events/2016/open-shito-ryu-karate-world-cup-2016/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2016-48th-washington",
+                "title": "48th Annual Washington State International Championships",
+                "date": "2016-05-15",
+                "location": "Lynnwood/Edmonds, Washington, USA",
+                "description": "48th Annual Washington State Championships (tournament materials available on subpage).",
+                "url": "/events/2016/48th-annual-washington-state-international-championships/",
+                "subpage_fetched": true
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "events": [
+            {
+                "id": "2015-47th-washington",
+                "title": "47th Annual Washington State International Championships",
+                "date": "2015-05-09",
+                "location": "Washington, USA",
+                "description": "47th Annual Washington State Championships (tournament packet, poster, registration forms available).",
+                "url": "/events/2105/47th-annual-washington-state-international-championships/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2015-international-seminars-hungary",
+                "title": "International Seminars in Kata & Kumite (Hungary, Summer 2015)",
+                "date": "2015-07-27",
+                "location": "Budapest / Hungary",
+                "description": "International seminars and dan certification events in Hungary (July/August 2015).",
+                "url": "/events/2105/international-seminar-hungary-2015/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2015-kumite-nishimura",
+                "title": "Kumite Seminar with Sensei Nishimura (May 10, 2015)",
+                "date": "2015-05-10",
+                "location": "Bellevue, Washington, USA",
+                "description": "Kumite seminar led by Sensei Seiji Nishimura (May 10, 2015).",
+                "url": "/events/2105/kumite-seminar-2105-sensei-nishimura/",
+                "subpage_fetched": true
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "events": [
+            {
+                "id": "2014-open-world-cup",
+                "title": "Open Shito Ryu Karate World Cup (Dec 5, 2014)",
+                "date": "2014-12-05",
+                "location": "Budaörs City / Budapest area, Hungary",
+                "description": "Open Shito Ryu Karate World Cup (flier and event materials available).",
+                "url": "/events/2014/open-shito-ryu-karate-world-cup/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2014-46th-washington",
+                "title": "46th Annual Washington State International Championships",
+                "date": null,
+                "location": "Washington, USA",
+                "description": "46th Annual Washington State Championships (indexed under 2014 events).",
+                "url": "/events/2014/46th-annual-washington-state-international-championships/",
+                "subpage_fetched": true
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "events": [
+            {
+                "id": "2013-international-seminar-hungary",
+                "title": "2013 International Hayashi-Ha Shito-Ryu Seminar in Hungary",
+                "date": "2013-09-26",
+                "location": "Balaton Keszthely, Hungary",
+                "description": "International seminar (Sep 26-29, 2013) with Hanshi Julius Thiry and other senior instructors.",
+                "url": "/events/2013/2013-international-hayashi-ha-shito-ryu-seminar/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2013-45th-washington",
+                "title": "45th Annual Washington State International Championships",
+                "date": "2013-05-19",
+                "location": "Washington, USA",
+                "description": "45th Annual Washington State Championships.",
+                "url": "/events/2013/45th-annual-washington-state-international-karate-championships/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2013-kata-kumite-seminar",
+                "title": "Kata & Kumite Seminars (May 17–18, 2013)",
+                "date": "2013-05-17",
+                "location": "Bellevue, Washington, USA",
+                "description": "Technical seminars (Kata & Kumite) listed in 2013 events.",
+                "url": "/events/2013/kata-kumite-seminar/",
+                "subpage_fetched": true
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "events": [
+            {
+                "id": "2012-44th-washington",
+                "title": "44th Annual Washington State International Karate Championships",
+                "date": "2012-05-12",
+                "location": "Washington, USA",
+                "description": "44th Annual Washington State International Championships (tournament poster, team registration forms available).",
+                "url": "/events/2012/44th-annual-washington-state-international-karate-championships/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2012-kata-seminar-hungary",
+                "title": "Kata Seminar in Hungary (Dec 6-9, 2012)",
+                "date": "2012-12-06",
+                "location": "Hungary",
+                "description": "Kata seminar in Hungary (Dec 6–9, 2012).",
+                "url": "/events/2012/kata-seminar-in-hungary/",
+                "subpage_fetched": true
+            }
+        ]
+    },
+    {
+        "year": 2011,
+        "events": [
+            {
+                "id": "2011-43rd-washington",
+                "title": "43rd Annual Washington State International Karate Championships",
+                "date": "2011-05-14",
+                "location": "Washington, USA",
+                "description": "43rd Annual Washington State International Championships.",
+                "url": "/events/2011/43rd-annual-washington-state-international-karate-championship/",
+                "subpage_fetched": true
+            },
+            {
+                "id": "2011-wka-banquet",
+                "title": "Washington Karate Association's 45th Anniversary Banquet",
+                "date": null,
+                "location": null,
+                "description": "Banquet listed in 2011 events (gallery link available on site).",
+                "url": "/events/2011/washington-karate-association-45th-anniversary-banquet/",
+                "subpage_fetched": true
+            }
+        ]
+    }
+]

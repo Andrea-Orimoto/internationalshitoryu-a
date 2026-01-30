@@ -1,0 +1,119 @@
+[
+  {
+    "year": 2022,
+    "events": [
+      {
+        "id": "2022-open-championships",
+        "title": "Hayashi Shito-Ryu Open International Karate Championships 2022",
+        "date": "2022-12-02",
+        "location": "Budapest, Hungary",
+        "description": "Open Shito-Ryu International Karate Championships in Budapest, Hungary.",
+        "url": "/events/2022/hayashi-shito-ryu-open-international-karate-championships/"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "events": [
+      {
+        "id": "2021-open-cup",
+        "title": "2021 Hayashi Shito-Ryu Open International Karate Cup",
+        "date": "2021-??-??",
+        "location": "",
+        "description": "Open Shito-Ryu International Karate Cup event.",
+        "url": "/events/2021/open-shito-ryu-international-karate-cup/"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "events": [
+      {
+        "id": "2018-open-championships",
+        "title": "Hayashi Shito-Ryu Open International Karate Championships 2018",
+        "date": "2018-12-07",
+        "location": "Budapest, Hungary",
+        "description": "Open Shito-Ryu International Karate Championships in Budapest, Hungary.",
+        "url": "/events/2018/"
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "events": [
+      {
+        "id": "2017-nationals-49th-washington",
+        "title": "2017 IHSKF USA Nationals & 49th Annual Washington State International Championships",
+        "date": "2017-??-??",
+        "location": "",
+        "description": "IHSKF USA Nationals and Washington State International Championships.",
+        "url": "/events/2017/2017-ihskf-usa-nationals-49th-annual-washington-state-international-championships/"
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "events": [
+      {
+        "id": "2016-48th-washington",
+        "title": "48th Annual Washington State International Championships",
+        "date": "2016-05-15",
+        "location": "Washington, USA",
+        "description": "48th Annual Washington State Championships, team and individual competition.",
+        "url": "/events/2016/48th-annual-washington-state-international-championships/"
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "events": [
+      {
+        "id": "2015-47th-washington",
+        "title": "47th Annual Washington State International Championships",
+        "date": "2015-05-09",
+        "location": "Washington, USA",
+        "description": "47th Annual Washington State Championships.",
+        "url": "/events/2105/47th-annual-washington-state-international-championships.html"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "events": [
+      {
+        "id": "2014-45th-washington",
+        "title": "45th Annual Washington State International Championships",
+        "date": "2014-??-??",
+        "location": "Washington, USA",
+        "description": "45th Annual Washington State Championships.",
+        "url": "/events/2014/46th-annual-washington-state-international-championships/"
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "events": [
+      {
+        "id": "2012-44th-washington",
+        "title": "44th Annual Washington State International Karate Championships",
+        "date": "2012-??-??",
+        "location": "Washington, USA",
+        "description": "44th Annual Washington State International Championships.",
+        "url": "/events/2012/44th-annual-washington-state-international-karate-championships/"
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "events": [
+      {
+        "id": "2011-43rd-washington",
+        "title": "43rd Annual Washington State International Karate Championships",
+        "date": "2011-??-??",
+        "location": "Washington, USA",
+        "description": "43rd Annual Washington State International Championships.",
+        "url": "/events/2011/43rd-annual-washington-state-international-karate-championship/"
+      }
+    ]
+  }
+]
