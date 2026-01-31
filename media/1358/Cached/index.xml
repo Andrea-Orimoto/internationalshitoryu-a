@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>13-Gojushiho.jpg</originalFileName>
+    <size>163958</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:05:08 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>3vjij3ko.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 20:50:36 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:06:06 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>4eex1fay.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 15:12:21 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 16:16:59 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>t0epv2zn.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 09:40:34 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 06:11:34 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

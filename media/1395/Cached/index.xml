@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>01-Introductions.jpg</originalFileName>
+    <size>212752</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:13:00 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>qvhqx1ke.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 06:58:14 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:05:07 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>twsvofdw.jpeg</fileName>
+      <dateCreated>Thu, 23 Feb 2017 04:11:25 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 20:30:22 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>xon4zzv1.jpeg</fileName>
+      <dateCreated>Fri, 05 May 2017 10:34:10 GMT</dateCreated>
+      <dateLastAccessed>Sun, 02 Feb 2025 21:55:53 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+  <image>
+    <originalFileName>01-introductions.jpg</originalFileName>
+    <size>212752</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:13:00 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>zwsu5fbb.jpeg</fileName>
+      <dateCreated>Wed, 05 Jul 2017 19:29:47 GMT</dateCreated>
+      <dateLastAccessed>Wed, 05 Jul 2017 19:29:47 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

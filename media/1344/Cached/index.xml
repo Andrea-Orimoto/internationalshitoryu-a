@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>12-Kumite Seminar.jpg</originalFileName>
+    <size>197933</size>
+    <dateLastModified>Mon, 17 Oct 2011 01:54:46 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>1n4bd1vy.jpeg</fileName>
+      <dateCreated>Sat, 11 Feb 2017 23:09:10 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 12:04:37 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>qwoc2hge.jpeg</fileName>
+      <dateCreated>Sun, 19 Feb 2017 18:40:25 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 14:04:08 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>sb2mwysl.jpeg</fileName>
+      <dateCreated>Thu, 02 Sep 2021 02:25:21 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 02:13:11 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

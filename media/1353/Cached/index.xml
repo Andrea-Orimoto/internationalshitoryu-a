@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>08-Gojushiho Demonstration.jpg</originalFileName>
+    <size>214976</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:03:01 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>z2nqvxed.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 06:01:31 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:06:01 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>ct5jbmhm.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 15:36:23 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 16:16:49 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>p15eibft.jpeg</fileName>
+      <dateCreated>Wed, 06 Oct 2021 19:36:07 GMT</dateCreated>
+      <dateLastAccessed>Fri, 16 Jan 2026 13:29:09 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>dsc01260.jpg</originalFileName>
+    <size>826368</size>
+    <dateLastModified>Sun, 23 Dec 2012 08:18:28 GMT</dateLastModified>
+    <width>1400</width>
+    <height>1050</height>
+    <cachedImage>
+      <fileName>ep054w3d.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 23:06:29 GMT</dateCreated>
+      <dateLastAccessed>Wed, 28 Jan 2026 17:34:48 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>4jbbrdcr.jpeg</fileName>
+      <dateCreated>Wed, 08 Mar 2017 08:02:31 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 17:16:44 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>ykc3okp0.jpeg</fileName>
+      <dateCreated>Sun, 09 Jul 2017 10:27:00 GMT</dateCreated>
+      <dateLastAccessed>Sun, 02 Feb 2025 19:35:43 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1400</width>
+      <height>1050</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>09-Bo Kihon.jpg</originalFileName>
+    <size>218508</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:09:52 GMT</dateLastModified>
+    <width>1024</width>
+    <height>577</height>
+    <cachedImage>
+      <fileName>lzwksgg2.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 12:23:01 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:07:42 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>338</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>m3gclxo0.jpeg</fileName>
+      <dateCreated>Fri, 03 Mar 2017 00:57:55 GMT</dateCreated>
+      <dateLastAccessed>Thu, 29 Jan 2026 05:22:15 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>56</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>im3uhoia.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 20:16:32 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 03:03:39 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>577</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

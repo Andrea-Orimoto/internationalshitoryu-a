@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>001.JPG</originalFileName>
+    <size>1225302</size>
+    <dateLastModified>Fri, 29 Jun 2012 05:05:55 GMT</dateLastModified>
+    <width>2000</width>
+    <height>1500</height>
+    <cachedImage>
+      <fileName>ze4zao5q.jpeg</fileName>
+      <dateCreated>Sat, 11 Feb 2017 20:06:01 GMT</dateCreated>
+      <dateLastAccessed>Sat, 31 Jan 2026 04:23:43 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>2nzruseo.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 16:49:51 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:08:31 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>dnytau4x.jpeg</fileName>
+      <dateCreated>Thu, 23 Feb 2017 22:01:08 GMT</dateCreated>
+      <dateLastAccessed>Mon, 02 Jun 2025 15:16:13 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>2000</width>
+      <height>1500</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

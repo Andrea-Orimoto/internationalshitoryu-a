@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>14-Superempei.jpg</originalFileName>
+    <size>182251</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:05:08 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>omidtngw.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 07:35:47 GMT</dateCreated>
+      <dateLastAccessed>Wed, 28 Jan 2026 21:07:44 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>limyaixp.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 17:42:12 GMT</dateCreated>
+      <dateLastAccessed>Thu, 29 Jan 2026 20:31:54 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>4k5ti5wc.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 08:16:43 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 05:44:44 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

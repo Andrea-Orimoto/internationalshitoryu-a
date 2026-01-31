@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>KARATE PHOTOS.jpg</originalFileName>
+    <size>775572</size>
+    <dateLastModified>Sat, 10 Sep 2011 06:10:40 GMT</dateLastModified>
+    <width>2768</width>
+    <height>1962</height>
+    <cachedImage>
+      <fileName>ryk5yqff.jpeg</fileName>
+      <dateCreated>Sat, 11 Feb 2017 20:06:01 GMT</dateCreated>
+      <dateLastAccessed>Sat, 31 Jan 2026 04:23:43 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>71</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>rc1fuubj.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 10:18:38 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:08:37 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>425</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>4a4rk2dk.jpeg</fileName>
+      <dateCreated>Thu, 23 Feb 2017 22:01:06 GMT</dateCreated>
+      <dateLastAccessed>Wed, 11 Jun 2025 11:27:39 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>2768</width>
+      <height>1962</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

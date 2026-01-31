@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>05-Gojushiho Demonstration.jpg</originalFileName>
+    <size>213718</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:03:01 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>yz4oxhc4.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 16:14:16 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:05:58 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>onxcrcfe.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 15:10:49 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 16:17:21 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>nqpe4yhp.jpeg</fileName>
+      <dateCreated>Wed, 06 Oct 2021 19:34:47 GMT</dateCreated>
+      <dateLastAccessed>Tue, 30 Dec 2025 11:35:22 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+  <image>
+    <originalFileName>05-gojushiho demonstration.jpg</originalFileName>
+    <size>213718</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:03:01 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>pxsgvzkk.jpeg</fileName>
+      <dateCreated>Fri, 25 Jul 2025 19:49:08 GMT</dateCreated>
+      <dateLastAccessed>Fri, 25 Jul 2025 19:49:08 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

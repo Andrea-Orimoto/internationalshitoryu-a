@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>09-Partner Push ups.jpg</originalFileName>
+    <size>175426</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:20:14 GMT</dateLastModified>
+    <width>911</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>xee5qn4r.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 04:31:32 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:07:57 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>imuwwx2u.jpeg</fileName>
+      <dateCreated>Sat, 25 Feb 2017 00:10:46 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 17:59:49 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>mpbuir4p.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 09:37:47 GMT</dateCreated>
+      <dateLastAccessed>Sun, 21 Jul 2024 16:29:59 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>911</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

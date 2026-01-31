@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Photo Album | International Shitoryu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+</head>
+
+<body>
+  <!-- Header -->
+  <div id="site-header"></div>
+
+  <main class="section">
+    <nav class="breadcrumb">
+      <a href="/photos/">← Back to Gallery</a>
+    </nav>
+
+    <h1 id="album-title"></h1>
+
+    <div id="gallery" class="photo-grid">
+      <!-- JS renders images here -->
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <div id="site-footer"></div>
+
+  <script src="/assets/js/includes.js"></script>
+  <script src="/assets/js/photos.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
+  <script>
+    renderPhotoAlbum();
+  </script>
+</body>
+</html>

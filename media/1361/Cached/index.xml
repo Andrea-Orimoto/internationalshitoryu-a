@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>16-Shihan Dougherty.jpg</originalFileName>
+    <size>209309</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:05:08 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>3a3vtjxq.jpeg</fileName>
+      <dateCreated>Sat, 11 Feb 2017 23:46:23 GMT</dateCreated>
+      <dateLastAccessed>Thu, 22 Jan 2026 16:25:29 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>cbp1cnsi.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 14:10:13 GMT</dateCreated>
+      <dateLastAccessed>Thu, 22 Jan 2026 03:20:46 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>pcs1jqtd.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 06:13:04 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 05:48:12 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

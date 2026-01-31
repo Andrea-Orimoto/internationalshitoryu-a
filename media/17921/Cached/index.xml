@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>WKA first studentPG.JPG</originalFileName>
+    <size>63052</size>
+    <dateLastModified>Sat, 11 Feb 2017 20:03:13 GMT</dateLastModified>
+    <width>1024</width>
+    <height>682</height>
+    <cachedImage>
+      <fileName>wme0z2rp.jpeg</fileName>
+      <dateCreated>Sat, 11 Feb 2017 20:06:04 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 20:11:53 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>b2tpjv2e.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 02:30:39 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 17:57:41 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>vrweltov.jpeg</fileName>
+      <dateCreated>Thu, 08 Feb 2018 20:29:53 GMT</dateCreated>
+      <dateLastAccessed>Sun, 11 Jan 2026 04:01:22 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>682</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+  <image>
+    <originalFileName>wka first studentpg.jpg</originalFileName>
+    <size>63052</size>
+    <dateLastModified>Sat, 11 Feb 2017 20:03:13 GMT</dateLastModified>
+    <width>1024</width>
+    <height>682</height>
+    <cachedImage>
+      <fileName>wzupxec2.jpeg</fileName>
+      <dateCreated>Sun, 09 Jul 2017 10:14:53 GMT</dateCreated>
+      <dateLastAccessed>Sun, 09 Jul 2017 10:14:53 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>682</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>b1vmzslf.jpeg</fileName>
+      <dateCreated>Tue, 16 Dec 2025 09:08:44 GMT</dateCreated>
+      <dateLastAccessed>Tue, 16 Dec 2025 09:08:47 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

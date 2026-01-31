@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>IMG_8320.jpg</originalFileName>
+    <size>450560</size>
+    <dateLastModified>Thu, 05 Jan 2012 05:12:42 GMT</dateLastModified>
+    <width>2048</width>
+    <height>1343</height>
+    <cachedImage>
+      <fileName>wi0invlb.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 16:51:12 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:04:27 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>393</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>v1hlbzeg.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 17:02:54 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 20:30:24 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>66</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>vyvpanij.jpeg</fileName>
+      <dateCreated>Sat, 08 Jan 2022 01:49:27 GMT</dateCreated>
+      <dateLastAccessed>Sun, 21 Jul 2024 16:03:27 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>2048</width>
+      <height>1343</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>33-Stretching.jpg</originalFileName>
+    <size>164794</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:07:16 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>uxpykkhd.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 23:18:39 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:07:23 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>qcznks3i.jpeg</fileName>
+      <dateCreated>Thu, 16 Feb 2017 23:36:50 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 17:10:58 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>00jtk03o.jpeg</fileName>
+      <dateCreated>Tue, 19 Oct 2021 16:50:55 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 06:13:58 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

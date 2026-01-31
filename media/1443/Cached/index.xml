@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>03-Learning Jyuroku.jpg</originalFileName>
+    <size>211712</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:20:14 GMT</dateLastModified>
+    <width>911</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>j0xdxwkp.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 07:05:04 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:07:51 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>qnsjb1sj.jpeg</fileName>
+      <dateCreated>Sat, 25 Feb 2017 00:10:45 GMT</dateCreated>
+      <dateLastAccessed>Thu, 29 Jan 2026 07:18:53 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>yb2ugs3x.jpeg</fileName>
+      <dateCreated>Sat, 09 Oct 2021 00:03:19 GMT</dateCreated>
+      <dateLastAccessed>Sun, 21 Jul 2024 16:28:52 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>911</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

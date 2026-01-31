@@ -256,43 +256,49 @@ nav .site-logo {
 
 /* Default: hide nav toggle */
 .nav-toggle {
-  display: none !important;
-  font-size: 1.8rem;
-  background: none;
-  border: none;
-  cursor: pointer;
-  z-index: 999;
-  color: #222; /* ensure visible */
+    display: none !important;
+    font-size: 1.8rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    z-index: 999;
+    color: #222;
+    /* ensure visible */
 }
 
 /* Show only on small screens */
 @media only screen and (max-width: 1024px) {
-  .nav-toggle {
-    display: block !important;
-  }
+    .nav-toggle {
+        display: block !important;
+    }
 
-  /* Hide desktop nav when mobile */
-  #siteNavigation ul {
-    display: none;
-  }
+    /* Hide desktop nav when mobile */
+    #siteNavigation ul {
+        display: none;
+    }
 
-  /* When open */
-  #siteNavigation ul.open {
-    display: block;
-    position: absolute;
-    top: 100%;
-    right: 0;
-    background: white;
-    padding: 1rem;
-    border: 1px solid #ddd;
-    z-index: 997;
-  }
+    /* When open */
+    #siteNavigation ul.open {
+        display: block;
+        position: absolute;
+        top: 100%;
+        right: 0;
+        background: white;
+        padding: 1rem;
+        border: 1px solid #ddd;
+        z-index: 997;
+    }
 
-  /* Ensure links are visible */
-  #siteNavigation ul.open a {
-    display: block;
-    margin: 0.5rem 0;
-  }
+    /* Ensure links are visible */
+    #siteNavigation ul.open a {
+        display: block;
+        margin: 0.5rem 0;
+    }
+
+    .section {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
 }
 
 
@@ -302,4 +308,149 @@ nav .site-logo {
     gap: 1rem;
     margin: 0;
     padding: 0;
+}
+
+/* =========================
+   Homepage – What's New
+   ========================= */
+
+.home-news {
+    border-left: 4px solid var(--accent);
+    padding-left: 1rem;
+}
+
+.home-news h2 {
+    font-size: 1.4rem;
+    margin-bottom: 0.75rem;
+}
+
+.news-list li {
+    padding-left: 0;
+}
+
+.news-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.news-list a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.news-list a:hover {
+    text-decoration: underline;
+}
+
+/* =========================
+   Homepage – Feature tiles
+   ========================= */
+
+.home-features {
+    margin: 4rem 0;
+}
+
+.feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem;
+}
+
+.feature-card {
+    display: block;
+    background: #f7f7f7;
+    border-radius: 8px;
+    overflow: hidden;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.feature-card img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    display: block;
+}
+
+.feature-card h3 {
+    margin: 1rem 0 0.5rem;
+}
+
+.feature-card p {
+    padding: 0 1rem 1.25rem;
+    font-size: 0.95rem;
+    color: #555;
+}
+
+.feature-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.album-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.album-card {
+    text-decoration: none;
+    color: inherit;
+}
+
+.album-card img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.album-card h3 {
+    margin-top: 0.5rem;
+    font-size: 0.95rem;
+}
+
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+}
+
+.photo-grid img {
+    width: 100%;
+    border-radius: 6px;
+}
+
+.breadcrumb {
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
+
+.muted {
+    color: #666;
+}
+
+.section {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+main.section {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+.album-year {
+  display: block;
+  font-size: 0.8rem;
+  color: #777;
+  margin-top: 0.25rem;
 }

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>Dan promotion.jpg</originalFileName>
+    <size>580068</size>
+    <dateLastModified>Thu, 05 Jan 2012 05:02:03 GMT</dateLastModified>
+    <width>2048</width>
+    <height>1325</height>
+    <cachedImage>
+      <fileName>yogvxsf5.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 06:50:41 GMT</dateCreated>
+      <dateLastAccessed>Wed, 28 Jan 2026 02:01:28 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>388</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>c5vlzvvg.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 14:19:41 GMT</dateCreated>
+      <dateLastAccessed>Thu, 22 Jan 2026 03:24:27 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>65</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>c5yro434.jpeg</fileName>
+      <dateCreated>Sun, 29 Sep 2019 06:02:09 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 05:48:03 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>2048</width>
+      <height>1325</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

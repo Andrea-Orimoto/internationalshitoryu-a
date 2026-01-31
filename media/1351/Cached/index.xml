@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>06-Gojushiho Demonstration.jpg</originalFileName>
+    <size>219911</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:03:01 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>uourl40b.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 07:45:53 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:05:59 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>qubo3abz.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 16:51:30 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 16:17:21 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>jkhf1q3j.jpeg</fileName>
+      <dateCreated>Wed, 06 Oct 2021 19:33:19 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 06:13:26 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+  <image>
+    <originalFileName>06-gojushiho demonstration.jpg</originalFileName>
+    <size>219911</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:03:01 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>ldreagkn.jpeg</fileName>
+      <dateCreated>Thu, 06 Jun 2024 21:52:29 GMT</dateCreated>
+      <dateLastAccessed>Fri, 25 Jul 2025 19:49:08 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

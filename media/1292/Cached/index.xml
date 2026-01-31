@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>KARATE PHOTOS_0011.jpg</originalFileName>
+    <size>819497</size>
+    <dateLastModified>Sat, 10 Sep 2011 06:13:37 GMT</dateLastModified>
+    <width>1482</width>
+    <height>2373</height>
+    <cachedImage>
+      <fileName>lwkyms4y.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 05:52:12 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:08:51 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>375</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>ul2oyo31.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 10:46:31 GMT</dateCreated>
+      <dateLastAccessed>Sat, 31 Jan 2026 04:23:37 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>62</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>gpyuotti.jpeg</fileName>
+      <dateCreated>Wed, 15 Nov 2017 12:56:41 GMT</dateCreated>
+      <dateLastAccessed>Sun, 02 Feb 2025 18:45:38 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1482</width>
+      <height>2373</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>Technical Seminar for Junior members..jpg</originalFileName>
+    <size>197291</size>
+    <dateLastModified>Fri, 13 May 2011 02:22:41 GMT</dateLastModified>
+    <width>911</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>mjqc0d4y.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 12:20:18 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 11:07:46 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>c2cjhtxh.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 22:53:28 GMT</dateCreated>
+      <dateLastAccessed>Thu, 29 Jan 2026 22:59:55 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>x2zlu2if.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 05:29:43 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 00:02:02 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>911</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

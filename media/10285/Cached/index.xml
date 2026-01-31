@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>dsc01538.jpg</originalFileName>
+    <size>935166</size>
+    <dateLastModified>Sun, 23 Dec 2012 08:24:34 GMT</dateLastModified>
+    <width>1400</width>
+    <height>1050</height>
+    <cachedImage>
+      <fileName>dv42bpdw.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 19:35:00 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:03:32 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>dp5qxeng.jpeg</fileName>
+      <dateCreated>Sun, 05 Mar 2017 11:08:58 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 19:00:25 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>pn5bkf3z.jpeg</fileName>
+      <dateCreated>Sun, 09 Jul 2017 10:26:21 GMT</dateCreated>
+      <dateLastAccessed>Wed, 24 Sep 2025 14:15:52 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1400</width>
+      <height>1050</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

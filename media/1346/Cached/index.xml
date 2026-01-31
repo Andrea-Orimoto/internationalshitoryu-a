@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>01-Learning Unshu.jpg</originalFileName>
+    <size>206623</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:03:00 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>0tt3ek4c.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 13:46:43 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:05:54 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>g5awhoqp.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 13:47:46 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 16:16:48 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>tpg0gako.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 07:03:10 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 05:45:27 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

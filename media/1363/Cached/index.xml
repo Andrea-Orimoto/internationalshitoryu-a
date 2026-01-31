@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>18-Heian Kata Review.jpg</originalFileName>
+    <size>213310</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:05:08 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>uevpy5ie.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 16:36:58 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:07:08 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>2iu2gyql.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 14:07:32 GMT</dateCreated>
+      <dateLastAccessed>Sat, 24 Jan 2026 23:14:27 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>klkftiav.jpeg</fileName>
+      <dateCreated>Wed, 06 Oct 2021 19:32:20 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 05:46:29 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

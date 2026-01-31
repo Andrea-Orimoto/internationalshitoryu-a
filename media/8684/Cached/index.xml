@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>MASTERHAYASHI.jpg</originalFileName>
+    <size>801644</size>
+    <dateLastModified>Wed, 07 Dec 2011 16:26:00 GMT</dateLastModified>
+    <width>1217</width>
+    <height>1503</height>
+    <cachedImage>
+      <fileName>y0v43mc3.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 10:22:25 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:08:36 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>486</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>b3a053jt.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 10:46:29 GMT</dateCreated>
+      <dateLastAccessed>Sat, 31 Jan 2026 04:23:36 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>81</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>sk2fzpr3.jpeg</fileName>
+      <dateCreated>Wed, 15 Nov 2017 12:56:40 GMT</dateCreated>
+      <dateLastAccessed>Tue, 20 Jan 2026 23:23:38 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1217</width>
+      <height>1503</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>tb42brmm.jpeg</fileName>
+      <dateCreated>Sun, 11 Jan 2026 05:35:55 GMT</dateCreated>
+      <dateLastAccessed>Mon, 12 Jan 2026 08:41:00 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>0yr4wjo3.jpeg</fileName>
+      <dateCreated>Sun, 11 Jan 2026 05:41:59 GMT</dateCreated>
+      <dateLastAccessed>Mon, 12 Jan 2026 08:46:17 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>741</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

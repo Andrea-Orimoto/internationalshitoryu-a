@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>09-Kumite Seminar.jpg</originalFileName>
+    <size>205591</size>
+    <dateLastModified>Mon, 17 Oct 2011 01:54:46 GMT</dateLastModified>
+    <width>911</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>dztucscx.jpeg</fileName>
+      <dateCreated>Sat, 11 Feb 2017 20:06:01 GMT</dateCreated>
+      <dateLastAccessed>Sat, 31 Jan 2026 04:23:43 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>pezorebv.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 17:57:21 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:07:35 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>jzvhyoxk.jpeg</fileName>
+      <dateCreated>Thu, 23 Feb 2017 22:01:07 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 02:11:42 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>911</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

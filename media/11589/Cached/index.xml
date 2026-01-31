@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>IMG_2212.JPG</originalFileName>
+    <size>1522654</size>
+    <dateLastModified>Tue, 19 Nov 2013 06:02:44 GMT</dateLastModified>
+    <width>3888</width>
+    <height>2592</height>
+    <cachedImage>
+      <fileName>vs0shtrx.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 07:08:51 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:02:42 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>hw3akk1j.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 18:02:13 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 16:34:28 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>l4fds1rt.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 22:38:26 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 07:43:20 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>3888</width>
+      <height>2592</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+  <image>
+    <originalFileName>img_2212.jpg</originalFileName>
+    <size>1522654</size>
+    <dateLastModified>Tue, 19 Nov 2013 06:02:44 GMT</dateLastModified>
+    <width>3888</width>
+    <height>2592</height>
+    <cachedImage>
+      <fileName>igut5hau.jpeg</fileName>
+      <dateCreated>Sun, 09 Jul 2017 10:23:42 GMT</dateCreated>
+      <dateLastAccessed>Sun, 09 Jul 2017 10:23:42 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>3888</width>
+      <height>2592</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

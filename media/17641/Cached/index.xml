@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>Dojo Awards.jpg</originalFileName>
+    <size>89228</size>
+    <dateLastModified>Sat, 11 Feb 2017 20:02:47 GMT</dateLastModified>
+    <width>1024</width>
+    <height>704</height>
+    <cachedImage>
+      <fileName>uwpcfl4g.jpeg</fileName>
+      <dateCreated>Sat, 11 Feb 2017 20:06:03 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 15:39:14 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>69</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>yx20b3on.jpeg</fileName>
+      <dateCreated>Sat, 11 Feb 2017 20:06:14 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 17:56:44 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>412</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>5miyzdfj.jpeg</fileName>
+      <dateCreated>Thu, 08 Feb 2018 20:29:42 GMT</dateCreated>
+      <dateLastAccessed>Thu, 22 Jan 2026 14:14:26 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>704</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+  <image>
+    <originalFileName>dojo awards.jpg</originalFileName>
+    <size>89228</size>
+    <dateLastModified>Sat, 11 Feb 2017 20:02:47 GMT</dateLastModified>
+    <width>1024</width>
+    <height>704</height>
+    <cachedImage>
+      <fileName>mtjjvb50.jpeg</fileName>
+      <dateCreated>Sun, 09 Jul 2017 10:13:15 GMT</dateCreated>
+      <dateLastAccessed>Sun, 09 Jul 2017 10:13:15 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>704</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>2tpy2hli.jpeg</fileName>
+      <dateCreated>Tue, 16 Dec 2025 11:49:35 GMT</dateCreated>
+      <dateLastAccessed>Tue, 16 Dec 2025 11:49:36 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>69</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

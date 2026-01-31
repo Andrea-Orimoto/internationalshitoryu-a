@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>19-Shiko Dachi Explanation.jpg</originalFileName>
+    <size>199355</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:05:08 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>vcxpqoha.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 14:16:59 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:07:09 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>etziapd1.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 13:59:35 GMT</dateCreated>
+      <dateLastAccessed>Sun, 25 Jan 2026 22:47:16 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>1144yygq.jpeg</fileName>
+      <dateCreated>Wed, 06 Oct 2021 19:32:27 GMT</dateCreated>
+      <dateLastAccessed>Fri, 02 Jan 2026 12:43:10 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+  <image>
+    <originalFileName>19-shiko dachi explanation.jpg</originalFileName>
+    <size>199355</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:05:08 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>qgm4htvp.jpeg</fileName>
+      <dateCreated>Fri, 25 Jul 2025 13:02:19 GMT</dateCreated>
+      <dateLastAccessed>Fri, 25 Jul 2025 19:49:09 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

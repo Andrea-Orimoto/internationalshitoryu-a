@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Photo Gallery | International Shitoryu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+  <!-- Optional: lightbox CSS only needed on album page,
+       but safe to preload site-wide -->
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+</head>
+
+<body>
+  <!-- Header -->
+  <div id="site-header"></div>
+
+  <main class="section">
+    <h1>Photo Gallery</h1>
+    <p class="muted">
+      Highlights from international championships, seminars, and events.
+    </p>
+
+    <div id="albums" class="album-grid">
+      <!-- JS renders albums here -->
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <div id="site-footer"></div>
+
+  <script src="/assets/js/includes.js"></script>
+  <script src="/assets/js/photos.js"></script>
+  <script>
+    renderPhotoAlbums();
+  </script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>31-Individual Katas.jpg</originalFileName>
+    <size>181551</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:07:16 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>bxmy2p4d.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 21:13:52 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:07:21 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>rhey5202.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 15:15:28 GMT</dateCreated>
+      <dateLastAccessed>Thu, 22 Jan 2026 05:50:19 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>2q3tqxsb.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 06:13:54 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 06:13:09 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

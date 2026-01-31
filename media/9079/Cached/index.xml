@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>Hanshi Thiry and Sensei Kovacs.jpg</originalFileName>
+    <size>421386</size>
+    <dateLastModified>Thu, 05 Jan 2012 05:12:04 GMT</dateLastModified>
+    <width>1365</width>
+    <height>2048</height>
+    <cachedImage>
+      <fileName>mj4wr21u.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 13:04:24 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:04:11 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>400</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>xx1b3zxe.jpeg</fileName>
+      <dateCreated>Fri, 24 Feb 2017 05:36:11 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 20:30:34 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>67</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>syrfuufu.jpeg</fileName>
+      <dateCreated>Thu, 21 Oct 2021 11:27:36 GMT</dateCreated>
+      <dateLastAccessed>Wed, 14 Jan 2026 19:09:19 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1365</width>
+      <height>2048</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>21-Individual Katas.jpg</originalFileName>
+    <size>181985</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:05:09 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>glds14uk.jpeg</fileName>
+      <dateCreated>Sun, 12 Feb 2017 22:56:36 GMT</dateCreated>
+      <dateLastAccessed>Thu, 29 Jan 2026 00:52:42 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>1kpsuwji.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 14:06:11 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 16:17:21 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>3hljthca.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 08:18:07 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 06:13:05 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

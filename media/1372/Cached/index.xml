@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>32-Individual Katas.jpg</originalFileName>
+    <size>194922</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:07:16 GMT</dateLastModified>
+    <width>1024</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>qqk2qohn.jpeg</fileName>
+      <dateCreated>Mon, 13 Feb 2017 05:07:39 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:07:22 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>a2z001xp.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 15:23:23 GMT</dateCreated>
+      <dateLastAccessed>Thu, 29 Jan 2026 05:10:25 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>01w24lk4.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 08:15:19 GMT</dateCreated>
+      <dateLastAccessed>Fri, 16 Jan 2026 09:49:37 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1024</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>
