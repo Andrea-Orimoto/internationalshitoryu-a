@@ -325,23 +325,23 @@ nav .site-logo {
 }
 
 .news-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 .news-list li {
-  margin-bottom: 1rem;
+    margin-bottom: 1rem;
 }
 
 .news-list li:last-child {
-  border-bottom: none;
+    border-bottom: none;
 }
 
 .news-list li a {
-  text-decoration: none;
-  display: block;
-  line-height: 1.4;
+    text-decoration: none;
+    display: block;
+    line-height: 1.4;
 }
 
 .news-list a:hover {
@@ -349,9 +349,9 @@ nav .site-logo {
 }
 
 @media (max-width: 767px) {
-  .news-list li {
-    margin-bottom: 1.25rem;
-  }
+    .news-list li {
+        margin-bottom: 1.25rem;
+    }
 }
 
 
@@ -370,17 +370,12 @@ nav .site-logo {
 }
 
 .feature-card {
-}
-
-
-.feature-card {
-  background: #fff;
-  border: 1px solid #e6e6e6;
-  border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
-
-  display: block;
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+    display: block;
     overflow: hidden;
     text-align: center;
     text-decoration: none;
@@ -406,8 +401,9 @@ nav .site-logo {
 
 .feature-card:hover,
 .feature-card:focus-within {
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
-  transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+    text-decoration: none;
 }
 
 
@@ -470,121 +466,123 @@ main.section {
 }
 
 .album-year {
-  display: block;
-  font-size: 0.8rem;
-  color: #777;
-  margin-top: 0.25rem;
+    display: block;
+    font-size: 0.8rem;
+    color: #777;
+    margin-top: 0.25rem;
 }
 
 .aboutus-layout {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 2rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
 }
 
 /* Left menu */
 .aboutus-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 .aboutus-nav li {
-  margin-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .aboutus-nav a {
-  text-decoration: none;
-  color: inherit;
-  display: block;
-  padding: 0.5rem 0.75rem;
-  border-radius: 6px;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    padding: 0.5rem 0.75rem;
+    border-radius: 6px;
 }
 
 .aboutus-nav li.active a,
 .aboutus-nav a:hover {
-  background: #f2f2f2;
-  font-weight: 600;
+    background: #f2f2f2;
+    font-weight: 600;
 }
 
 /* Desktop layout */
 @media (min-width: 768px) {
-  .aboutus-layout {
-    grid-template-columns: 220px 1fr;
-    align-items: start;
-  }
+    .aboutus-layout {
+        grid-template-columns: 220px 1fr;
+        align-items: start;
+    }
 
-  .aboutus-nav {
-    position: sticky;
-    top: 2rem;
-  }
+    .aboutus-nav {
+        position: sticky;
+        top: 2rem;
+    }
 }
 
 /* About Us: stack left nav on mobile */
 @media (max-width: 767px) {
-  .aboutus-layout {
-    grid-template-columns: 1fr; /* stack */
-  }
+    .aboutus-layout {
+        grid-template-columns: 1fr;
+        /* stack */
+    }
 
-  .aboutus-nav {
-    position: static; /* disable sticky on mobile */
-  }
+    .aboutus-nav {
+        position: static;
+        /* disable sticky on mobile */
+    }
 }
 
 
 /* Force vertical layout for About Us left nav */
 .aboutus-nav nav,
 .aboutus-nav ul {
-  display: block;
+    display: block;
 }
 
 .aboutus-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 .aboutus-nav li {
-  display: block;
-  width: 100%;
-  margin-bottom: 0.5rem;
+    display: block;
+    width: 100%;
+    margin-bottom: 0.5rem;
 }
 
 .aboutus-nav a {
-  display: block;
-  width: 100%;
+    display: block;
+    width: 100%;
 }
 
 /* Remove top margin from H1 on About Us pages */
 .aboutus-layout h1,
 .content-page h1 {
-  margin-top: 0;
+    margin-top: 0;
 }
 
 .kata-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
 }
 
 .kata-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 .kata-list li {
-  margin-bottom: 0.4rem;
+    margin-bottom: 0.4rem;
 }
 
 .kata-list a {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 @media (min-width: 768px) {
-  .kata-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
+    .kata-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
 }
 
 
@@ -592,55 +590,56 @@ main.section {
 /* About Us nav — force vertical stacking on mobile (highest specificity) */
 /* ───────────────────────────────────────────────────────────────────────── */
 @media screen and (max-width: 767px) {
-  .aboutus-layout {
-    display: block !important;
-    padding-top: 0 !important;
-  }
+    .aboutus-layout {
+        display: block !important;
+        padding-top: 0 !important;
+    }
 
-  .aboutus-nav {
-    position: static !important;
-    float: none !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    top: auto !important;
-    left: auto !important;
-    margin-bottom: 1.5rem !important;
-    transform: none !important;
-  }
+    .aboutus-nav {
+        position: static !important;
+        float: none !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        top: auto !important;
+        left: auto !important;
+        margin-bottom: 1.5rem !important;
+        transform: none !important;
+    }
 
-  /* Reset nav layout inside About Us */
-  .aboutus-nav nav {
-    display: block;
-    position: static;
-  }
+    /* Reset nav layout inside About Us */
+    .aboutus-nav nav {
+        display: block;
+        position: static;
+    }
 
-  /* Force menu into normal flow */
-  .aboutus-nav nav ul {
-    position: static !important;
-    right: auto !important;
-    top: auto !important;
-    width: 100%;
-    display: block !important;
-    padding: 0;
-    margin: 0;
-  }
+    /* Force menu into normal flow */
+    .aboutus-nav nav ul {
+        position: static !important;
+        right: auto !important;
+        top: auto !important;
+        width: 100%;
+        display: block !important;
+        padding: 0;
+        margin: 0;
+    }
 
-  /* Optional: center or left-align links */
-  .aboutus-nav nav ul li a {
-    text-align: left; /* or center if you prefer */
-  }
+    /* Optional: center or left-align links */
+    .aboutus-nav nav ul li a {
+        text-align: left;
+        /* or center if you prefer */
+    }
 
-  .aboutus-content {
-    width: 100% !important;
-    position: static !important;
-    float: none !important;
-  }
+    .aboutus-content {
+        width: 100% !important;
+        position: static !important;
+        float: none !important;
+    }
 }
 
 /* Home page: reduce gap below header */
 main,
 .hero,
 .homepage-content {
-  margin-top: 0;
-  padding-top: 0;
+    margin-top: 0;
+    padding-top: 0;
 }
