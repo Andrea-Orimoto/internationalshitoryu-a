@@ -1,12 +1,31 @@
 ﻿[
     {
+        "id":  "chi-no-kata",
+        "title":  "Chi no kata",
+        "category":  "Basic Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:28",
+        "thumbnail":  "/media/2320/chinokata.jpg",
+        "provider":  "youtube",
+        "videoId":  "tQyCmScTpXQ"
+    },
+    {
+        "id":  "kihon-kata-go",
+        "title":  "Kihon Kata Go",
+        "category":  "Basic Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:32",
+        "thumbnail":  "/media/2515/kihonkatago.jpg",
+        "provider":  "youtube",
+        "videoId":  "FoLFx4T0Z_I"
+    },
+    {
         "id":  "kihon-kata-ichi",
         "title":  "Kihon Kata Ichi",
         "category":  "Basic Katas",
         "performer":  "Senpai Mao Thygesen",
         "duration":  "1:37",
         "thumbnail":  "/media/2479/kihonkataichi.jpg",
-        "sourceUrl":  "/videos/basic-katas/kihon-kata-ichi/",
         "provider":  "youtube",
         "videoId":  "0e5wcUqhbtI"
     },
@@ -17,7 +36,6 @@
         "performer":  "Sensei Matthew Day",
         "duration":  "1:29",
         "thumbnail":  "/media/2488/kihonkatani.jpg",
-        "sourceUrl":  "/videos/basic-katas/kihon-kata-ni/",
         "provider":  "youtube",
         "videoId":  "g3UTyv3PMQ4"
     },
@@ -28,7 +46,6 @@
         "performer":  "Senpai Mao Thygesen",
         "duration":  "1:42",
         "thumbnail":  "/media/2497/kihonkatasan.jpg",
-        "sourceUrl":  "/videos/basic-katas/kihon-kata-san/",
         "provider":  "youtube",
         "videoId":  "fp3h6R7ScM0"
     },
@@ -39,20 +56,8 @@
         "performer":  "Sensei Junko Arai",
         "duration":  "1:26",
         "thumbnail":  "/media/2506/kihonkatayon.jpg",
-        "sourceUrl":  "/videos/basic-katas/kihon-kata-yon/",
         "provider":  "youtube",
         "videoId":  "QZ4YyPq0f-g"
-    },
-    {
-        "id":  "kihon-kata-go",
-        "title":  "Kihon Kata Go",
-        "category":  "Basic Katas",
-        "performer":  "Sensei Junko Arai",
-        "duration":  "1:32",
-        "thumbnail":  "/media/2515/kihonkatago.jpg",
-        "sourceUrl":  "/videos/basic-katas/kihon-kata-go/",
-        "provider":  "youtube",
-        "videoId":  "FoLFx4T0Z_I"
     },
     {
         "id":  "ten-no-kata",
@@ -61,75 +66,8 @@
         "performer":  "Sensei Matthew Day",
         "duration":  "1:32",
         "thumbnail":  "/media/2524/tennokata.jpg",
-        "sourceUrl":  "/videos/basic-katas/ten-no-kata/",
         "provider":  "youtube",
         "videoId":  "ZFMCXPSll6U"
-    },
-    {
-        "id":  "chi-no-kata",
-        "title":  "Chi no kata",
-        "category":  "Basic Katas",
-        "performer":  "Sensei Junko Arai",
-        "duration":  "1:28",
-        "thumbnail":  "/media/2320/chinokata.jpg",
-        "sourceUrl":  "/videos/basic-katas/chi-no-kata/",
-        "provider":  "youtube",
-        "videoId":  "tQyCmScTpXQ"
-    },
-    {
-        "id":  "heian-shodan",
-        "title":  "Heian Shodan",
-        "category":  "Heian Katas",
-        "performer":  "Sensei Junko Arai",
-        "duration":  "1:48",
-        "thumbnail":  "/media/2776/heianshodan.jpg",
-        "sourceUrl":  "/videos/heian-katas/heian-shodan/",
-        "provider":  "youtube",
-        "videoId":  "C5FZJGbhLgo"
-    },
-    {
-        "id":  "heian-nidan",
-        "title":  "Heian Nidan",
-        "category":  "Heian Katas",
-        "performer":  "Sensei Matthew Day",
-        "duration":  "2:08",
-        "thumbnail":  "/media/2551/heiannidan.jpg",
-        "sourceUrl":  "/videos/heian-katas/heian-nidan/",
-        "provider":  "youtube",
-        "videoId":  "U2U74dU82Wk"
-    },
-    {
-        "id":  "heian-sandan",
-        "title":  "Heian Sandan",
-        "category":  "Heian Katas",
-        "performer":  "Sensei Matthew Day",
-        "duration":  "2:00",
-        "thumbnail":  "/media/2812/heiansandan.jpg",
-        "sourceUrl":  "/videos/heian-katas/heian-sandan/",
-        "provider":  "youtube",
-        "videoId":  "tllBJduTHiU"
-    },
-    {
-        "id":  "heian-yondan",
-        "title":  "Heian Yondan",
-        "category":  "Heian Katas",
-        "performer":  "Sensei Matthew Day",
-        "duration":  "2:28",
-        "thumbnail":  "/media/2569/heianyondan.jpg",
-        "sourceUrl":  "/videos/heian-katas/heian-yondan/",
-        "provider":  "youtube",
-        "videoId":  "rVe-O3YEAU8"
-    },
-    {
-        "id":  "heian-godan",
-        "title":  "Heian Godan",
-        "category":  "Heian Katas",
-        "performer":  "Sensei Junko Arai",
-        "duration":  "1:48",
-        "thumbnail":  "/media/2578/heiangodan.jpg",
-        "sourceUrl":  "/videos/heian-katas/heian-godan/",
-        "provider":  "youtube",
-        "videoId":  "9YkZJ9_YT2M"
     },
     {
         "id":  "bassai-dai",
@@ -138,7 +76,6 @@
         "performer":  "Sensei Junko Arai",
         "duration":  "3:22",
         "thumbnail":  "/media/5169/bassaidai.jpg",
-        "sourceUrl":  "/videos/bassai-katas/bassai-dai/",
         "provider":  "youtube",
         "videoId":  "Pu_VXcLOXLY"
     },
@@ -149,7 +86,6 @@
         "performer":  "Sensei Matthew Day",
         "duration":  "2:58",
         "thumbnail":  "/media/5289/bassaisho.jpg",
-        "sourceUrl":  "/videos/bassai-katas/bassai-sho/",
         "provider":  "youtube",
         "videoId":  "3FgtyBSWIFk"
     },
@@ -160,7 +96,6 @@
         "performer":  "Sensei Matthew Day",
         "duration":  "4:29",
         "thumbnail":  "/media/5279/matsumura-bassai.jpg",
-        "sourceUrl":  "/videos/bassai-katas/matsumura-bassai/",
         "provider":  "youtube",
         "videoId":  "VYpSzB4uHr4"
     },
@@ -171,64 +106,608 @@
         "performer":  "Sensei Junko Arai",
         "duration":  "4:33",
         "thumbnail":  "/media/5259/tomari-bassai.jpg",
-        "sourceUrl":  "/videos/bassai-katas/tomari-bassai/",
         "provider":  "youtube",
         "videoId":  "zjV5f6Idb2I"
     },
     {
+        "id":  "heian-godan",
+        "title":  "Heian Godan",
+        "category":  "Heian Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:48",
+        "thumbnail":  "/media/2578/heiangodan.jpg",
+        "provider":  "youtube",
+        "videoId":  "9YkZJ9_YT2M"
+    },
+    {
+        "id":  "heian-nidan",
+        "title":  "Heian Nidan",
+        "category":  "Heian Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "2:08",
+        "thumbnail":  "/media/2551/heiannidan.jpg",
+        "provider":  "youtube",
+        "videoId":  "U2U74dU82Wk"
+    },
+    {
+        "id":  "heian-sandan",
+        "title":  "Heian Sandan",
+        "category":  "Heian Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "2:00",
+        "thumbnail":  "/media/2812/heiansandan.jpg",
+        "provider":  "youtube",
+        "videoId":  "tllBJduTHiU"
+    },
+    {
+        "id":  "heian-shodan",
+        "title":  "Heian Shodan",
+        "category":  "Heian Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:48",
+        "thumbnail":  "/media/2776/heianshodan.jpg",
+        "provider":  "youtube",
+        "videoId":  "C5FZJGbhLgo"
+    },
+    {
+        "id":  "heian-yondan",
+        "title":  "Heian Yondan",
+        "category":  "Heian Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "2:28",
+        "thumbnail":  "/media/2569/heianyondan.jpg",
+        "provider":  "youtube",
+        "videoId":  "rVe-O3YEAU8"
+    },
+    {
         "id":  "jiin",
         "title":  "Jiin",
-        "category":  "Jiin / Jitte / Jion Katas",
+        "category":  "Jiin/Jitte/Jion Katas",
         "performer":  "Sensei Matthew Day",
         "duration":  "3:08",
         "thumbnail":  "/media/3893/jiin.jpg",
-        "sourceUrl":  "/videos/jiinjittejion-katas/jiin/",
         "provider":  "youtube",
         "videoId":  "1NRsYBJeR9o"
     },
     {
         "id":  "jion",
         "title":  "Jion",
-        "category":  "Jiin / Jitte / Jion Katas",
+        "category":  "Jiin/Jitte/Jion Katas",
         "performer":  "Sensei Matthew Day",
         "duration":  "4:03",
         "thumbnail":  "/media/5319/jion.jpg",
-        "sourceUrl":  "/videos/jiinjittejion-katas/jion/",
         "provider":  "youtube",
         "videoId":  "gpd-n1-H8WE"
     },
     {
         "id":  "jitte",
         "title":  "Jitte",
-        "category":  "Jiin / Jitte / Jion Katas",
+        "category":  "Jiin/Jitte/Jion Katas",
         "performer":  "Sensei Matthew Day",
         "duration":  "2:29",
         "thumbnail":  "/media/5339/jitte.jpg",
-        "sourceUrl":  "/videos/jiinjittejion-katas/jitte/",
         "provider":  "youtube",
         "videoId":  "M5fN4mrNBXE"
+    },
+    {
+        "id":  "kosokun-dai",
+        "title":  "Kosokun Dai",
+        "category":  "Kosokun Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "4:32",
+        "thumbnail":  "/media/7989/kosokundai.jpg",
+        "provider":  "youtube",
+        "videoId":  "xIhwha9Ia1Y"
+    },
+    {
+        "id":  "kosokun-sho",
+        "title":  "Kosokun Sho",
+        "category":  "Kosokun Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "4:00",
+        "thumbnail":  "/media/7979/kosokunsho.jpg",
+        "provider":  "youtube",
+        "videoId":  "gPpYhDKAcSQ"
+    },
+    {
+        "id":  "shiho-kosokun",
+        "title":  "Shiho Kosokun",
+        "category":  "Kosokun Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "3:17",
+        "thumbnail":  "/media/6942/shihokosokun.jpg",
+        "provider":  "youtube",
+        "videoId":  "4vmSlxe5HSg"
+    },
+    {
+        "id":  "annan",
+        "title":  "Annan",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "3:50",
+        "thumbnail":  "/media/8210/annan.jpg",
+        "provider":  "youtube",
+        "videoId":  "BeB29g_Nmfk"
+    },
+    {
+        "id":  "annan-dai",
+        "title":  "Annan Dai",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Daniel Pazos",
+        "duration":  "3:05",
+        "thumbnail":  "/media/20688/annandai.jpg",
+        "provider":  "youtube",
+        "videoId":  "yFjYifZL7YU"
+    },
+    {
+        "id":  "annanko",
+        "title":  "Annanko",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "2:23",
+        "thumbnail":  "/media/8220/annanko.jpg",
+        "provider":  "youtube",
+        "videoId":  "kWshSsQo6ak"
+    },
+    {
+        "id":  "aoyanagi",
+        "title":  "Aoyanagi",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "0:55",
+        "thumbnail":  "/media/2037/aoyonagi.jpg",
+        "provider":  "youtube",
+        "videoId":  "8BBoP_JoSKQ"
+    },
+    {
+        "id":  "chatanyara-kushanku",
+        "title":  "Chatanyara Kushanku",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "4:04",
+        "thumbnail":  "/media/8230/chatanyara-kushanku.jpg",
+        "provider":  "youtube",
+        "videoId":  "1wNftQ2mRYg"
+    },
+    {
+        "id":  "chinte",
+        "title":  "Chinte",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "2:06",
+        "thumbnail":  "/media/6952/chinte.jpg",
+        "provider":  "youtube",
+        "videoId":  "zuvBapRnndI"
+    },
+    {
+        "id":  "chinto",
+        "title":  "Chinto",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "0:56",
+        "thumbnail":  "/media/2001/chinto.jpg",
+        "provider":  "youtube",
+        "videoId":  "z7CGoxhZ9R8"
+    },
+    {
+        "id":  "chinto-reverse",
+        "title":  "Chinto (Reverse)",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "0:51",
+        "thumbnail":  "/media/2019/chinto-reverse.jpg",
+        "provider":  "youtube",
+        "videoId":  "_Q2ptw5Avfw"
+    },
+    {
+        "id":  "gojushiho",
+        "title":  "Gojushiho",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "4:15",
+        "thumbnail":  "/media/6932/gojushiho.jpg",
+        "provider":  "youtube",
+        "videoId":  "9gTtdiLvswo"
+    },
+    {
+        "id":  "hakkaku",
+        "title":  "Hakkaku",
+        "category":  "Other advanced Katas",
+        "performer":  "Soke Teruo Hayashi (from YouTube)",
+        "duration":  null,
+        "thumbnail":  "/media/15816/empty.png",
+        "provider":  "youtube",
+        "videoId":  "lkeEB6DOLzs"
+    },
+    {
+        "id":  "heiku",
+        "title":  "Heiku",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "2:59",
+        "thumbnail":  "/media/8240/heiku.jpg",
+        "provider":  "youtube",
+        "videoId":  "PqbTwZ8Ajfg"
+    },
+    {
+        "id":  "jyuroku",
+        "title":  "Jyuroku",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "1:42",
+        "thumbnail":  "/media/8250/jyuroku.jpg",
+        "provider":  "youtube",
+        "videoId":  "Dx2lxjGbkYs"
+    },
+    {
+        "id":  "kururunfa",
+        "title":  "Kururunfa",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "2:49",
+        "thumbnail":  "/media/8260/kururunfa.jpg",
+        "provider":  "youtube",
+        "videoId":  "_PEeMEjr_xk"
+    },
+    {
+        "id":  "matsukaze",
+        "title":  "Matsukaze",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "2:40",
+        "thumbnail":  "/media/2596/matsukaze.jpg",
+        "provider":  "youtube",
+        "videoId":  "IIPmmR7qGps"
+    },
+    {
+        "id":  "naifanchin-shodan",
+        "title":  "Naifanchin Shodan",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "0:38",
+        "thumbnail":  "/media/1983/naifanchin-shodan.jpg",
+        "provider":  "youtube",
+        "videoId":  "2Ro999rlaFA"
+    },
+    {
+        "id":  "nipaipo",
+        "title":  "Nipaipo",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "4:04",
+        "thumbnail":  "/media/8270/nipaipo.jpg",
+        "provider":  "youtube",
+        "videoId":  "L66mLO5GrBQ"
+    },
+    {
+        "id":  "niseishi",
+        "title":  "Niseishi",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "2:17",
+        "thumbnail":  "/media/6962/niseishi.jpg",
+        "provider":  "youtube",
+        "videoId":  "dBzNY2id2Ak"
+    },
+    {
+        "id":  "ohan",
+        "title":  "Ohan",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei\u0026nbsp;Daniel Pazos",
+        "duration":  "2:00",
+        "thumbnail":  "/media/20718/ohan.jpg",
+        "provider":  "youtube",
+        "videoId":  "6-lvfeJBPBk"
+    },
+    {
+        "id":  "ohan-dai",
+        "title":  "Ohan Dai",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "1:55",
+        "thumbnail":  "/media/21065/ohan_dai-060923.jpg",
+        "provider":  "youtube",
+        "videoId":  "CKQ963mIg0A"
+    },
+    {
+        "id":  "pachu",
+        "title":  "Pachu",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "1:01",
+        "thumbnail":  "/media/8280/pachu.jpg",
+        "provider":  "youtube",
+        "videoId":  "6uh7lggw9JI"
+    },
+    {
+        "id":  "paiku",
+        "title":  "Paiku",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "3:04",
+        "thumbnail":  "/media/8290/paiku.jpg",
+        "provider":  "youtube",
+        "videoId":  "vDOQx1LizIM"
+    },
+    {
+        "id":  "rohai",
+        "title":  "Rohai",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "2:43",
+        "thumbnail":  "/media/3974/rohai.jpg",
+        "provider":  "youtube",
+        "videoId":  "kPV8Yjob5k0"
+    },
+    {
+        "id":  "saifa",
+        "title":  "Saifa",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "0:53",
+        "thumbnail":  "/media/3983/saifa.jpg",
+        "provider":  "youtube",
+        "videoId":  "bPGQDTyCmyE"
+    },
+    {
+        "id":  "sanchin",
+        "title":  "Sanchin",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:46",
+        "thumbnail":  "/media/2055/sanchin.jpg",
+        "provider":  "youtube",
+        "videoId":  "cnxLtGkcnkc"
+    },
+    {
+        "id":  "sanchin-reverse",
+        "title":  "Sanchin (Reverse)",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:46",
+        "thumbnail":  "/media/2073/sanchin-reverse.jpg",
+        "provider":  "youtube",
+        "videoId":  "wNZAyUFvQVY"
+    },
+    {
+        "id":  "sanseiru",
+        "title":  "Sanseiru",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:03",
+        "thumbnail":  "/media/2082/sanseiru.jpg",
+        "provider":  "youtube",
+        "videoId":  "WCqSZn8PwxY"
+    },
+    {
+        "id":  "sanseiru-reverse",
+        "title":  "Sanseiru (Reverse)",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:00",
+        "thumbnail":  "/media/2181/sanseiru-reverse.jpg",
+        "provider":  "youtube",
+        "videoId":  "1-Hbqlc9G3Y"
+    },
+    {
+        "id":  "seienchin",
+        "title":  "Seienchin",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "1:45",
+        "thumbnail":  "/media/4589/seienchin.jpg",
+        "provider":  "youtube",
+        "videoId":  "UU6cFx5HcJA"
+    },
+    {
+        "id":  "seipai",
+        "title":  "Seipai",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:26",
+        "thumbnail":  "/media/5891/sepai.jpg",
+        "provider":  "youtube",
+        "videoId":  "i_4gUCoD074"
+    },
+    {
+        "id":  "seisan",
+        "title":  "Seisan",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "3:06",
+        "thumbnail":  "/media/8300/seisan.jpg",
+        "provider":  "youtube",
+        "videoId":  "QE-Ra3CLkEI"
+    },
+    {
+        "id":  "shisouchin",
+        "title":  "Shisouchin",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:06",
+        "thumbnail":  "/media/1958/shisouchin.jpg",
+        "provider":  "youtube",
+        "videoId":  "s6VLLDZGjQE"
+    },
+    {
+        "id":  "shisouchin-reverse",
+        "title":  "Shisouchin (Reverse)",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:03",
+        "thumbnail":  "/media/2154/shisouchin-reverse.jpg",
+        "provider":  "youtube",
+        "videoId":  "i20qm2AiDZA"
+    },
+    {
+        "id":  "sochin",
+        "title":  "Sochin",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Matthew Day",
+        "duration":  "2:35",
+        "thumbnail":  "/media/8310/sochin.jpg",
+        "provider":  "youtube",
+        "videoId":  "hNp-rLzcxc8"
+    },
+    {
+        "id":  "superimpei",
+        "title":  "Superimpei",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "5:23",
+        "thumbnail":  "/media/8320/superempei.jpg",
+        "provider":  "youtube",
+        "videoId":  "8OXv-c_tsgY"
+    },
+    {
+        "id":  "tensho",
+        "title":  "Tensho",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:14",
+        "thumbnail":  "/media/2203/tensho.jpg",
+        "provider":  "youtube",
+        "videoId":  "Mb9rz94UZeQ"
+    },
+    {
+        "id":  "unshu",
+        "title":  "Unshu",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "3:48",
+        "thumbnail":  "/media/8566/unshu.jpg",
+        "provider":  "youtube",
+        "videoId":  "NwYhpb9ZESI"
+    },
+    {
+        "id":  "wanshu",
+        "title":  "Wanshu",
+        "category":  "Other advanced Katas",
+        "performer":  "Sensei Junko Arai",
+        "duration":  "1:59",
+        "thumbnail":  "/media/4559/wanshu.jpg",
+        "provider":  "youtube",
+        "videoId":  "Qk0_XX8cxUo"
     },
     {
         "id":  "papuren",
         "title":  "Papuren",
         "category":  "Papuren",
-        "performer":  "IHHSKF",
+        "performer":  null,
         "duration":  "2:12",
         "thumbnail":  "/media/20397/papuren.jpg",
-        "sourceUrl":  "/videos/papuren/papuren/",
         "provider":  "youtube",
         "videoId":  "7m7f-nSwes4"
     },
     {
-        "id":  "sensei-nishimura-kumite-techniques",
-        "title":  "Sensei Seiji Nishimura â€“ Kumite Techniques",
+        "id":  "papuren-section-1",
+        "title":  "Papuren - Section 1",
+        "category":  "Papuren",
+        "performer":  null,
+        "duration":  null,
+        "thumbnail":  "/media/20464/papuren1.jpg",
+        "provider":  "youtube",
+        "videoId":  "kpBpwAi6K8g"
+    },
+    {
+        "id":  "papuren-section-2",
+        "title":  "Papuren - Section 2",
+        "category":  "Papuren",
+        "performer":  null,
+        "duration":  null,
+        "thumbnail":  "/media/20454/papuren2.jpg",
+        "provider":  "youtube",
+        "videoId":  "kjO0RHjE3uQ"
+    },
+    {
+        "id":  "papuren-section-3",
+        "title":  "Papuren - Section 3",
+        "category":  "Papuren",
+        "performer":  null,
+        "duration":  null,
+        "thumbnail":  "/media/20534/papuren3.jpg",
+        "provider":  "youtube",
+        "videoId":  "xCA0xPAVqt4"
+    },
+    {
+        "id":  "papuren-section-4",
+        "title":  "Papuren - Section 4",
+        "category":  "Papuren",
+        "performer":  null,
+        "duration":  "0:05",
+        "thumbnail":  "/media/20484/papuren4.jpg",
+        "provider":  "youtube",
+        "videoId":  "Bret-XO0nVk"
+    },
+    {
+        "id":  "papuren-section-5",
+        "title":  "Papuren - Section 5",
+        "category":  "Papuren",
+        "performer":  null,
+        "duration":  "0:09",
+        "thumbnail":  "/media/20474/papuren5.jpg",
+        "provider":  "youtube",
+        "videoId":  "J75Fztv5MRk"
+    },
+    {
+        "id":  "adam-skovacs-highlights-world-karate-championships-2010",
+        "title":  "Adam S.Kovacs Highlights World Karate Championships 2010",
         "category":  "Kumite",
-        "performer":  "Sensei Seiji Nishimura",
-        "duration":  "1:16",
+        "performer":  null,
+        "duration":  null,
+        "thumbnail":  "/media/9473/adam-kovacs-kumite.jpg",
+        "provider":  "youtube",
+        "videoId":  "LnahEL6lEtU"
+    },
+    {
+        "id":  "skovcs-dm-the-hungarian-warrior",
+        "title":  "S.Kovács Ádám the hungarian warrior",
+        "category":  "Kumite",
+        "performer":  null,
+        "duration":  null,
+        "thumbnail":  "/media/10054/kovacs-warrior.jpg",
+        "provider":  "youtube",
+        "videoId":  "nX8obIIXrPI"
+    },
+    {
+        "id":  "sensei-seiji-nishimura-kumite-techniques",
+        "title":  "Sensei Seiji Nishimura - Kumite Techniques",
+        "category":  "Kumite",
+        "performer":  null,
+        "duration":  null,
         "thumbnail":  "/media/15935/seijinishimurakumitetechniques.jpg",
-        "sourceUrl":  "/videos/kumite/sensei-nishimura-kumite-techniques/",
         "provider":  "youtube",
         "videoId":  "JRXn0xLucWo"
+    },
+    {
+        "id":  "sensei-seiji-nishimura-and-shihan-makoto-matsuura-kumite-techniques",
+        "title":  "Sensei Seiji Nishimura and Shihan Makoto Matsuura Kumite Techniques",
+        "category":  "Kumite",
+        "performer":  null,
+        "duration":  null,
+        "thumbnail":  "/media/7130/kumite-nishimura-matsuura.jpg",
+        "provider":  "youtube",
+        "videoId":  "SKewhC4KiqE"
+    },
+    {
+        "id":  "twg-2009-in-taiwan-karate-men-kumite-65kg-gold-medal-fight-fra-rolle-william-vs-hun-s-kovacs",
+        "title":  "TWG 2009 in Taiwan Karate MEN, KUMITE -65KG Gold Medal Fight FRA - ROLLE William vs HUN - S. Kovacs",
+        "category":  "Kumite",
+        "performer":  null,
+        "duration":  null,
+        "thumbnail":  "/media/10034/kovacs-2009-2.jpg",
+        "provider":  "youtube",
+        "videoId":  "zyS1ynEIQ9E"
+    },
+    {
+        "id":  "twg-2009-in-taiwan-karate-men-kumite-65kg-hun-s-kovacs-adam-vs-aus-mykhaylenko",
+        "title":  "TWG 2009 in Taiwan Karate MEN, KUMITE -65KG HUN - S. KOVACS Adam vs AUS - MYKHAYLENKO",
+        "category":  "Kumite",
+        "performer":  null,
+        "duration":  null,
+        "thumbnail":  "/media/10014/kovac-2009-1.jpg",
+        "provider":  "youtube",
+        "videoId":  "XgVpHu-dBYs"
     },
     {
         "id":  "open-shito-ryu-karate-world-cup-2014",
@@ -237,7 +716,6 @@
         "performer":  null,
         "duration":  null,
         "thumbnail":  "/media/14070/screen_shot_2015-01-17_at_12.42.27_am.png",
-        "sourceUrl":  "/videos/events/open-shito-ryu-karate-world-cup/",
         "provider":  "youtube",
         "videoId":  "tTipSOGLato"
     },
@@ -248,7 +726,6 @@
         "performer":  null,
         "duration":  null,
         "thumbnail":  "/media/16966/kobudo.jpg",
-        "sourceUrl":  "/videos/okinawa-kobudo-kenshinryu/okinawa-kobudo-kenshinryu/",
         "provider":  "youtube",
         "videoId":  "H0rm_Usp2eQ"
     }
