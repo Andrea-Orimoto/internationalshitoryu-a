@@ -59,24 +59,57 @@ function render() {
       currentCategory === "All" ? "Videos" : currentCategory;
   }
 
-  allVideos
-    .filter(v => currentCategory === "All" || v.category === currentCategory)
-    .forEach(v => {
-      const card = document.createElement("div");
-      card.className = "video-card";
-      card.tabIndex = 0;
+  const videos =
+    currentCategory === "All"
+      ? allVideos
+      : allVideos.filter(v => v.category === currentCategory);
 
-      card.innerHTML = `
-        <img src="https://img.youtube.com/vi/${v.videoId}/hqdefault.jpg" alt="${v.title}">
-        <h3>${v.title}</h3>
-        ${v.performer ? `<p>${v.performer}</p>` : ""}
-      `;
+  // Group by category
+  const groups = {};
+  videos.forEach(v => {
+    if (!groups[v.category]) groups[v.category] = [];
+    groups[v.category].push(v);
+  });
 
-      card.onclick = () => openModal(v);
-      card.onkeydown = e => e.key === "Enter" && openModal(v);
+  Object.keys(groups).forEach(category => {
+    const section = document.createElement("section");
+    section.className = "video-category-section";
 
-      grid.appendChild(card);
+    const h2 = document.createElement("h2");
+    h2.className = "video-category-title";
+    h2.textContent = category;
+    section.appendChild(h2);
+
+    const categoryGrid = document.createElement("div");
+    categoryGrid.className = "video-tiles";
+
+    groups[category].forEach(v => {
+      categoryGrid.appendChild(renderCard(v));
     });
+
+    section.appendChild(categoryGrid);
+    grid.appendChild(section);
+  });
+}
+
+function renderCard(v) {
+  const card = document.createElement("div");
+  card.className = "video-card";
+  card.tabIndex = 0;
+
+  card.innerHTML = `
+    <div class="video-thumb">
+      <img src="https://img.youtube.com/vi/${v.videoId}/hqdefault.jpg" alt="${v.title}">
+      ${v.duration ? `<span class="video-duration">${v.duration}</span>` : ""}
+    </div>
+    <h3>${v.title}</h3>
+    ${v.performer ? `<p>${v.performer}</p>` : ""}
+  `;
+
+  card.onclick = () => openModal(v);
+  card.onkeydown = e => e.key === "Enter" && openModal(v);
+
+  return card;
 }
 
 /* ---------- Modal ---------- */
@@ -143,7 +176,5 @@ function updateUrl() {
 
   history.replaceState({}, "", url);
 }
-
-/* ---------- Back/forward support ---------- */
 
 window.addEventListener("popstate", applyUrlState);
