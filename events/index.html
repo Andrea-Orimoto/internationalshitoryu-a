@@ -56,19 +56,7 @@
 </head>
 
 <body>
-    <header>
-        <nav class="container">
-            <div class="logo"><a href="/">IHHSKF</a></div>
-            <button>☰</button>
-            <ul>
-                <li><a href="/about/history.html">About</a></li>
-                <li><a href="/syllabus/index.html">Syllabus</a></li>
-                <li><a href="/organization/index.html">Organization</a></li>
-                <li><a href="/media/photos.html">Media</a></li>
-                <li><a href="/membership/index.html">Membership</a></li>
-            </ul>
-        </nav>
-    </header>
+    <div id="site-header"></div>
 
     <main class="container">
         <h1>Events</h1>
@@ -82,8 +70,9 @@
         </div>
     </div>
 
-    <footer class="container">© International Hayashi-Ha Shito-Ryu Karate-Do Federation</footer>
+    <div id="site-footer"></div>
 
+    <script src="/assets/js/includes.js"></script>
     <script>
         async function loadEvents() {
             const res = await fetch('/data/events-by-year.json');
@@ -117,7 +106,7 @@
                     card.className = 'event-card';
 
                     card.innerHTML = `
-        <h3>${ev.title}</h3>
+        <h3><a href="${ev.url}">${ev.title}</a></h3>
         <div class="event-meta">${meta}</div>
         <div class="event-description">${ev.description || ''}</div>
         <div class="event-actions">

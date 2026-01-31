@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>dsc01212.jpg</originalFileName>
+    <size>1067745</size>
+    <dateLastModified>Sun, 23 Dec 2012 08:15:31 GMT</dateLastModified>
+    <width>1400</width>
+    <height>1050</height>
+    <cachedImage>
+      <fileName>l44ghjrc.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 16:45:47 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:03:42 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>cnmqypa5.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 17:13:29 GMT</dateCreated>
+      <dateLastAccessed>Thu, 22 Jan 2026 05:14:00 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>ck0ucjin.jpeg</fileName>
+      <dateCreated>Sun, 09 Jul 2017 10:26:42 GMT</dateCreated>
+      <dateLastAccessed>Sun, 02 Feb 2025 18:42:46 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1400</width>
+      <height>1050</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

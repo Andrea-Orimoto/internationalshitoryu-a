@@ -1,6 +1,216 @@
 [
   {
-    "title": "Jyuroku Kata",
-    "embed": "<iframe width='560' height='315' src='https://www.youtube.com/embed/...' frameborder='0' allowfullscreen></iframe>"
+    "id": "kihon-kata-ichi",
+    "title": "Kihon Kata Ichi",
+    "category": "Basic Katas",
+    "performer": "Senpai Mao Thygesen",
+    "duration": "1:37",
+    "thumbnail": "/media/2479/kihonkataichi.jpg",
+    "sourceUrl": "/videos/basic-katas/kihon-kata-ichi/"
+  },
+  {
+    "id": "kihon-kata-ni",
+    "title": "Kihon Kata Ni",
+    "category": "Basic Katas",
+    "performer": "Sensei Matthew Day",
+    "duration": "1:29",
+    "thumbnail": "/media/2488/kihonkatani.jpg",
+    "sourceUrl": "/videos/basic-katas/kihon-kata-ni/"
+  },
+  {
+    "id": "kihon-kata-san",
+    "title": "Kihon Kata San",
+    "category": "Basic Katas",
+    "performer": "Senpai Mao Thygesen",
+    "duration": "1:42",
+    "thumbnail": "/media/2497/kihonkatasan.jpg",
+    "sourceUrl": "/videos/basic-katas/kihon-kata-san/"
+  },
+  {
+    "id": "kihon-kata-yon",
+    "title": "Kihon Kata Yon",
+    "category": "Basic Katas",
+    "performer": "Sensei Junko Arai",
+    "duration": "1:26",
+    "thumbnail": "/media/2506/kihonkatayon.jpg",
+    "sourceUrl": "/videos/basic-katas/kihon-kata-yon/"
+  },
+  {
+    "id": "kihon-kata-go",
+    "title": "Kihon Kata Go",
+    "category": "Basic Katas",
+    "performer": "Sensei Junko Arai",
+    "duration": "1:32",
+    "thumbnail": "/media/2515/kihonkatago.jpg",
+    "sourceUrl": "/videos/basic-katas/kihon-kata-go/"
+  },
+  {
+    "id": "ten-no-kata",
+    "title": "Ten No Kata",
+    "category": "Basic Katas",
+    "performer": "Sensei Matthew Day",
+    "duration": "1:32",
+    "thumbnail": "/media/2524/tennokata.jpg",
+    "sourceUrl": "/videos/basic-katas/ten-no-kata/"
+  },
+  {
+    "id": "chi-no-kata",
+    "title": "Chi no kata",
+    "category": "Basic Katas",
+    "performer": "Sensei Junko Arai",
+    "duration": "1:28",
+    "thumbnail": "/media/2320/chinokata.jpg",
+    "sourceUrl": "/videos/basic-katas/chi-no-kata/"
+  },
+
+  {
+    "id": "heian-shodan",
+    "title": "Heian Shodan",
+    "category": "Heian Katas",
+    "performer": "Sensei Junko Arai",
+    "duration": "1:48",
+    "thumbnail": "/media/2776/heianshodan.jpg",
+    "sourceUrl": "/videos/heian-katas/heian-shodan/"
+  },
+  {
+    "id": "heian-nidan",
+    "title": "Heian Nidan",
+    "category": "Heian Katas",
+    "performer": "Sensei Matthew Day",
+    "duration": "2:08",
+    "thumbnail": "/media/2551/heiannidan.jpg",
+    "sourceUrl": "/videos/heian-katas/heian-nidan/"
+  },
+  {
+    "id": "heian-sandan",
+    "title": "Heian Sandan",
+    "category": "Heian Katas",
+    "performer": "Sensei Matthew Day",
+    "duration": "2:00",
+    "thumbnail": "/media/2812/heiansandan.jpg",
+    "sourceUrl": "/videos/heian-katas/heian-sandan/"
+  },
+  {
+    "id": "heian-yondan",
+    "title": "Heian Yondan",
+    "category": "Heian Katas",
+    "performer": "Sensei Matthew Day",
+    "duration": "2:28",
+    "thumbnail": "/media/2569/heianyondan.jpg",
+    "sourceUrl": "/videos/heian-katas/heian-yondan/"
+  },
+  {
+    "id": "heian-godan",
+    "title": "Heian Godan",
+    "category": "Heian Katas",
+    "performer": "Sensei Junko Arai",
+    "duration": "1:48",
+    "thumbnail": "/media/2578/heiangodan.jpg",
+    "sourceUrl": "/videos/heian-katas/heian-godan/"
+  },
+
+  {
+    "id": "bassai-dai",
+    "title": "Bassai Dai",
+    "category": "Bassai Katas",
+    "performer": "Sensei Junko Arai",
+    "duration": "3:22",
+    "thumbnail": "/media/5169/bassaidai.jpg",
+    "sourceUrl": "/videos/bassai-katas/bassai-dai/"
+  },
+  {
+    "id": "bassai-sho",
+    "title": "Bassai Sho",
+    "category": "Bassai Katas",
+    "performer": "Sensei Matthew Day",
+    "duration": "2:58",
+    "thumbnail": "/media/5289/bassaisho.jpg",
+    "sourceUrl": "/videos/bassai-katas/bassai-sho/"
+  },
+  {
+    "id": "matsumura-bassai",
+    "title": "Matsumura Bassai",
+    "category": "Bassai Katas",
+    "performer": "Sensei Matthew Day",
+    "duration": "4:29",
+    "thumbnail": "/media/5279/matsumura-bassai.jpg",
+    "sourceUrl": "/videos/bassai-katas/matsumura-bassai/"
+  },
+  {
+    "id": "tomari-bassai",
+    "title": "Tomari Bassai",
+    "category": "Bassai Katas",
+    "performer": "Sensei Junko Arai",
+    "duration": "4:33",
+    "thumbnail": "/media/5259/tomari-bassai.jpg",
+    "sourceUrl": "/videos/bassai-katas/tomari-bassai/"
+  },
+
+  {
+    "id": "jiin",
+    "title": "Jiin",
+    "category": "Jiin / Jitte / Jion Katas",
+    "performer": "Sensei Matthew Day",
+    "duration": "3:08",
+    "thumbnail": "/media/3893/jiin.jpg",
+    "sourceUrl": "/videos/jiinjittejion-katas/jiin/"
+  },
+  {
+    "id": "jion",
+    "title": "Jion",
+    "category": "Jiin / Jitte / Jion Katas",
+    "performer": "Sensei Matthew Day",
+    "duration": "4:03",
+    "thumbnail": "/media/5319/jion.jpg",
+    "sourceUrl": "/videos/jiinjittejion-katas/jion/"
+  },
+  {
+    "id": "jitte",
+    "title": "Jitte",
+    "category": "Jiin / Jitte / Jion Katas",
+    "performer": "Sensei Matthew Day",
+    "duration": "2:29",
+    "thumbnail": "/media/5339/jitte.jpg",
+    "sourceUrl": "/videos/jiinjittejion-katas/jitte/"
+  },
+
+  {
+    "id": "papuren",
+    "title": "Papuren",
+    "category": "Papuren",
+    "performer": "IHHSKF",
+    "duration": "2:12",
+    "thumbnail": "/media/20397/papuren.jpg",
+    "sourceUrl": "/videos/papuren/papuren/"
+  },
+
+  {
+    "id": "sensei-nishimura-kumite-techniques",
+    "title": "Sensei Seiji Nishimura – Kumite Techniques",
+    "category": "Kumite",
+    "performer": "Sensei Seiji Nishimura",
+    "duration": "1:16",
+    "thumbnail": "/media/15935/seijinishimurakumitetechniques.jpg",
+    "sourceUrl": "/videos/kumite/sensei-nishimura-kumite-techniques/"
+  },
+
+  {
+    "id": "open-shito-ryu-karate-world-cup-2014",
+    "title": "Open Shito-Ryu Karate World Cup 2014",
+    "category": "Events",
+    "performer": null,
+    "duration": null,
+    "thumbnail": "/media/14070/screen_shot_2015-01-17_at_12.42.27_am.png",
+    "sourceUrl": "/videos/events/open-shito-ryu-karate-world-cup/"
+  },
+
+  {
+    "id": "okinawa-kobudo-kenshinryu",
+    "title": "Okinawa Kobudo Kenshinryu",
+    "category": "Okinawa Kobudo Kenshinryu",
+    "performer": null,
+    "duration": null,
+    "thumbnail": "/media/16966/kobudo.jpg",
+    "sourceUrl": "/videos/okinawa-kobudo-kenshinryu/okinawa-kobudo-kenshinryu/"
   }
 ]

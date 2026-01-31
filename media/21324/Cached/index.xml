@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>08_sri_lanka_2026_new_year_poster.jpg</originalFileName>
+    <size>500713</size>
+    <dateLastModified>Wed, 21 Jan 2026 02:01:30 GMT</dateLastModified>
+    <width>1699</width>
+    <height>2200</height>
+    <cachedImage>
+      <fileName>4o1k5ndp.jpeg</fileName>
+      <dateCreated>Wed, 21 Jan 2026 02:10:13 GMT</dateCreated>
+      <dateLastAccessed>Thu, 29 Jan 2026 20:18:14 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>77</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>a3xgjjjw.jpeg</fileName>
+      <dateCreated>Wed, 21 Jan 2026 02:20:59 GMT</dateCreated>
+      <dateLastAccessed>Thu, 29 Jan 2026 23:43:11 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>463</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

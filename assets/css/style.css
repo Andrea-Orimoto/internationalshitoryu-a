@@ -58,6 +58,11 @@ nav button {
   display: none;
 }
 
+nav a.active {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
 main {
   padding: 2rem 0;
 }
@@ -179,4 +184,20 @@ footer {
 .event-actions a:hover,
 .event-actions button:hover {
   background: #eee;
+}
+
+#leftnav ul li.active > a {
+  color: #32aae9;
+  font-weight: bold;
+}
+
+.site-logo img {
+  height: 100px;
+  width: auto;
+  object-fit: contain;
+}
+
+nav .site-logo {
+  display: inline-block;
+  margin-right: 1rem;
 }

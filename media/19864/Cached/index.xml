@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>LETTER FROM GOVENOR.jpg</originalFileName>
+    <size>303824</size>
+    <dateLastModified>Thu, 28 Dec 2017 20:01:17 GMT</dateLastModified>
+    <width>1275</width>
+    <height>1650</height>
+    <cachedImage>
+      <fileName>eh0e2j0y.jpeg</fileName>
+      <dateCreated>Thu, 28 Dec 2017 20:09:57 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 21:22:39 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>77</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>0ki05ds3.jpeg</fileName>
+      <dateCreated>Thu, 28 Dec 2017 20:12:43 GMT</dateCreated>
+      <dateLastAccessed>Wed, 28 Jan 2026 17:25:41 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>464</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>xtu2buoz.jpeg</fileName>
+      <dateCreated>Wed, 17 Jan 2018 19:21:20 GMT</dateCreated>
+      <dateLastAccessed>Fri, 13 Jun 2025 04:19:49 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1275</width>
+      <height>1650</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>k3vpviq1.jpeg</fileName>
+      <dateCreated>Fri, 26 Dec 2025 05:56:38 GMT</dateCreated>
+      <dateLastAccessed>Mon, 12 Jan 2026 08:04:07 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>wmr4w3x4.jpeg</fileName>
+      <dateCreated>Fri, 26 Dec 2025 05:57:33 GMT</dateCreated>
+      <dateLastAccessed>Mon, 12 Jan 2026 08:05:02 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>129</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

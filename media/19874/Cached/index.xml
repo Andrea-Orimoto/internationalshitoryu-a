@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>LETTER FROM KING COUNTY COUNCIL.jpg</originalFileName>
+    <size>323769</size>
+    <dateLastModified>Thu, 28 Dec 2017 20:01:19 GMT</dateLastModified>
+    <width>1275</width>
+    <height>1650</height>
+    <cachedImage>
+      <fileName>4bpokecd.jpeg</fileName>
+      <dateCreated>Thu, 28 Dec 2017 20:12:41 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 13:20:46 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>77</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>iobcgycs.jpeg</fileName>
+      <dateCreated>Thu, 28 Dec 2017 20:12:47 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 17:56:19 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>464</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>tczykvit.jpeg</fileName>
+      <dateCreated>Wed, 17 Jan 2018 19:21:27 GMT</dateCreated>
+      <dateLastAccessed>Wed, 24 Sep 2025 14:15:53 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1275</width>
+      <height>1650</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>LETTER FROM STATE SENATOR.jpg</originalFileName>
+    <size>357111</size>
+    <dateLastModified>Thu, 28 Dec 2017 20:01:23 GMT</dateLastModified>
+    <width>1275</width>
+    <height>1650</height>
+    <cachedImage>
+      <fileName>4laz1ftx.jpeg</fileName>
+      <dateCreated>Thu, 28 Dec 2017 20:12:41 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 13:20:46 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>77</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>y5dpazcr.jpeg</fileName>
+      <dateCreated>Fri, 29 Dec 2017 23:15:11 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 03:56:22 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>464</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>yqdbgsfv.jpeg</fileName>
+      <dateCreated>Wed, 17 Jan 2018 19:21:30 GMT</dateCreated>
+      <dateLastAccessed>Sun, 02 Feb 2025 19:33:59 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1275</width>
+      <height>1650</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+  <image>
+    <originalFileName>letter from state senator.jpg</originalFileName>
+    <size>357111</size>
+    <dateLastModified>Thu, 28 Dec 2017 20:01:23 GMT</dateLastModified>
+    <width>1275</width>
+    <height>1650</height>
+    <cachedImage>
+      <fileName>akaz2iq4.jpeg</fileName>
+      <dateCreated>Mon, 28 Jun 2021 12:00:00 GMT</dateCreated>
+      <dateLastAccessed>Fri, 13 Aug 2021 23:59:58 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1275</width>
+      <height>1650</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

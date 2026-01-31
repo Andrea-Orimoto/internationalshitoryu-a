@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>15-08-02_16-44-55_VV_3192.jpg</originalFileName>
+    <size>1414753</size>
+    <dateLastModified>Wed, 26 Aug 2015 19:36:03 GMT</dateLastModified>
+    <width>2048</width>
+    <height>1365</height>
+    <cachedImage>
+      <fileName>tnn1rubo.jpeg</fileName>
+      <dateCreated>Sat, 17 Jun 2017 06:21:08 GMT</dateCreated>
+      <dateLastAccessed>Sat, 17 Jun 2017 06:21:08 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

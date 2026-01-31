@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>14-Kumite.jpg</originalFileName>
+    <size>175751</size>
+    <dateLastModified>Mon, 17 Oct 2011 02:20:13 GMT</dateLastModified>
+    <width>911</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>5abmu3pm.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 16:49:22 GMT</dateCreated>
+      <dateLastAccessed>Thu, 29 Jan 2026 02:15:05 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>irmbmf4a.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 17:20:38 GMT</dateCreated>
+      <dateLastAccessed>Thu, 22 Jan 2026 23:36:55 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>dh4fqyvt.jpeg</fileName>
+      <dateCreated>Fri, 07 Jan 2022 10:57:46 GMT</dateCreated>
+      <dateLastAccessed>Sun, 21 Jul 2024 16:31:13 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>911</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

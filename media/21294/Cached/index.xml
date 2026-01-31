@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>02_hayashi-ha_new_years_letter_hungarian.jpg</originalFileName>
+    <size>494065</size>
+    <dateLastModified>Wed, 21 Jan 2026 02:00:43 GMT</dateLastModified>
+    <width>1870</width>
+    <height>2420</height>
+    <cachedImage>
+      <fileName>ypgggacc.jpeg</fileName>
+      <dateCreated>Wed, 21 Jan 2026 02:10:13 GMT</dateCreated>
+      <dateLastAccessed>Thu, 29 Jan 2026 20:18:14 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>77</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>mpm110mh.jpeg</fileName>
+      <dateCreated>Wed, 21 Jan 2026 02:20:07 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 05:10:13 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>464</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

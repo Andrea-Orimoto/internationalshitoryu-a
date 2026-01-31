@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>10_hh_recognition_letter_to_venezuela_-_spanish.jpg</originalFileName>
+    <size>336667</size>
+    <dateLastModified>Wed, 21 Jan 2026 02:01:53 GMT</dateLastModified>
+    <width>1700</width>
+    <height>2189</height>
+    <cachedImage>
+      <fileName>flea2ixh.jpeg</fileName>
+      <dateCreated>Wed, 21 Jan 2026 02:10:13 GMT</dateCreated>
+      <dateLastAccessed>Thu, 29 Jan 2026 20:18:14 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>78</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>52or2nuz.jpeg</fileName>
+      <dateCreated>Wed, 21 Jan 2026 02:21:05 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 22:27:47 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>466</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

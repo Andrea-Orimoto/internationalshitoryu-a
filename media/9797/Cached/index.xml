@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>078.JPG</originalFileName>
+    <size>2009989</size>
+    <dateLastModified>Fri, 29 Jun 2012 05:06:17 GMT</dateLastModified>
+    <width>2000</width>
+    <height>1500</height>
+    <cachedImage>
+      <fileName>fr5ackig.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 16:49:54 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 17:16:42 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>xcrrplqp.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 17:41:30 GMT</dateCreated>
+      <dateLastAccessed>Wed, 14 Jan 2026 00:47:03 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>j13efw0a.jpeg</fileName>
+      <dateCreated>Thu, 19 Apr 2018 11:37:28 GMT</dateCreated>
+      <dateLastAccessed>Sun, 03 Mar 2024 22:46:36 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>2000</width>
+      <height>1500</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

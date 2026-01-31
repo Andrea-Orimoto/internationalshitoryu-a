@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Videos — IHHSKF</title>
+
+    <!-- Global migrated site styles -->
+    <link rel="stylesheet" href="../assets/css/style.css">
+
+    <!-- Videos-only styles -->
+    <link rel="stylesheet" href="../assets/css/videos.css">
+</head>
+
+<body>
+    <div id="site-header"></div>
+
+    <main class="container">
+        <h1 id="page-title"></h1>
+
+        <!-- Inline category navigation (replacement for left nav) -->
+        <nav class="video-categories" id="category-nav"></nav>
+
+        <!-- Video grid -->
+        <div id="video-grid" class="video-grid"></div>
+    </main>
+
+    <div id="site-footer"></div>
+
+    <script src="/assets/js/includes.js"></script>
+
+    <!-- Modal -->
+    <div id="video-modal" class="modal hidden" role="dialog" aria-modal="true">
+        <div class="modal-backdrop"></div>
+        <div class="modal-content">
+            <button id="modal-close" aria-label="Close">Close</button>
+            <h2 id="modal-title"></h2>
+            <p id="modal-meta"></p>
+            <div class="video-wrapper" id="modal-video"></div>
+        </div>
+    </div>
+
+    <script src="../assets/js/videos.js"></script>
+</body>
+
+</html>

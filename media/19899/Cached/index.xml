@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>letter_from_uchiage___matsuura.jpg</originalFileName>
+    <size>268912</size>
+    <dateLastModified>Thu, 28 Dec 2017 20:08:10 GMT</dateLastModified>
+    <width>1275</width>
+    <height>1650</height>
+    <cachedImage>
+      <fileName>4r5pvjyh.jpeg</fileName>
+      <dateCreated>Thu, 28 Dec 2017 20:12:41 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 13:20:47 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>77</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>njn0kusm.jpeg</fileName>
+      <dateCreated>Fri, 29 Dec 2017 23:14:54 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 17:56:24 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>464</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>r4etlgdn.jpeg</fileName>
+      <dateCreated>Wed, 17 Jan 2018 19:21:30 GMT</dateCreated>
+      <dateLastAccessed>Sun, 02 Feb 2025 19:34:27 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1275</width>
+      <height>1650</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

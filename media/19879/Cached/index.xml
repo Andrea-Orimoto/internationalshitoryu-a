@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>LETTER FROM PAZOS VENEZUELA.jpg</originalFileName>
+    <size>419364</size>
+    <dateLastModified>Thu, 28 Dec 2017 20:01:20 GMT</dateLastModified>
+    <width>1275</width>
+    <height>1650</height>
+    <cachedImage>
+      <fileName>jojcev5d.jpeg</fileName>
+      <dateCreated>Thu, 28 Dec 2017 20:12:41 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 13:20:46 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>77</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>3rzijirg.jpeg</fileName>
+      <dateCreated>Thu, 28 Dec 2017 20:12:49 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 17:46:20 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>464</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>5ufafzv0.jpeg</fileName>
+      <dateCreated>Wed, 17 Jan 2018 19:21:28 GMT</dateCreated>
+      <dateLastAccessed>Sun, 11 Jan 2026 01:56:57 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1275</width>
+      <height>1650</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

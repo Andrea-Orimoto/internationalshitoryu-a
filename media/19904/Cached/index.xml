@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>LETTER FROM ZVONKO CANADA.jpg</originalFileName>
+    <size>370363</size>
+    <dateLastModified>Thu, 28 Dec 2017 20:01:25 GMT</dateLastModified>
+    <width>1275</width>
+    <height>1650</height>
+    <cachedImage>
+      <fileName>q1r003kt.jpeg</fileName>
+      <dateCreated>Thu, 28 Dec 2017 20:12:41 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 13:20:46 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>77</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>54u0ra34.jpeg</fileName>
+      <dateCreated>Fri, 29 Dec 2017 23:14:54 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 17:56:25 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>464</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>wbzby5bb.jpeg</fileName>
+      <dateCreated>Wed, 17 Jan 2018 19:21:32 GMT</dateCreated>
+      <dateLastAccessed>Mon, 08 Sep 2025 19:38:39 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1275</width>
+      <height>1650</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>
