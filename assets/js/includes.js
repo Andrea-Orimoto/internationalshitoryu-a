@@ -1,13 +1,10 @@
 /* =========================================================
    Global include loader + base-path handling
-   Works on:
-   - GitHub Pages (username.github.io/repo/)
-   - Custom domain root (/)
    ========================================================= */
 
 /* ---- Base path detection ---- */
 const BASE_PATH = location.hostname.includes("github.io")
-  ? "/internationalshitoryu-a"   // ← repo name
+  ? "/internationalshitoryu-a"
   : "";
 
 /* ---- Load HTML includes ---- */
@@ -60,10 +57,31 @@ function setActiveNav(container) {
   });
 }
 
+/* ---- Mobile navigation (hamburger) ---- */
+function setupMobileNav(container) {
+  const toggle = container.querySelector(".nav-toggle");
+  const nav = container.querySelector("nav ul");
+
+  if (!toggle || !nav) return;
+
+  toggle.addEventListener("click", () => {
+    nav.classList.toggle("open");
+  });
+
+  // Close menu when clicking a link (mobile UX)
+  nav.querySelectorAll("a").forEach(link => {
+    link.addEventListener("click", () => {
+      nav.classList.remove("open");
+    });
+  });
+}
+
+
 /* ---- Load header + footer ---- */
 loadInclude("site-header", "/includes/header.html", container => {
   fixBasePaths(container);
   setActiveNav(container);
+  setupMobileNav(container);
 });
 
 loadInclude("site-footer", "/includes/footer.html", fixBasePaths);
