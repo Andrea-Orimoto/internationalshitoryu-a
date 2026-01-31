@@ -1,0 +1,9 @@
+# Force LF endings for all text files
+* text=auto eol=lf
+
+# Explicitly ensure common web files use LF
+*.html text eol=lf
+*.css  text eol=lf
+*.js   text eol=lf
+*.json text eol=lf
+*.md   text eol=lf
