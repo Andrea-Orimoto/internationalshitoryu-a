@@ -499,6 +499,18 @@ main.section {
   }
 }
 
+/* About Us: stack left nav on mobile */
+@media (max-width: 767px) {
+  .aboutus-layout {
+    grid-template-columns: 1fr; /* stack */
+  }
+
+  .aboutus-nav {
+    position: static; /* disable sticky on mobile */
+  }
+}
+
+
 /* Force vertical layout for About Us left nav */
 .aboutus-nav nav,
 .aboutus-nav ul {
@@ -551,5 +563,24 @@ main.section {
 @media (min-width: 768px) {
   .kata-grid {
     grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* About Us – mobile: force nav to stack above content */
+@media (max-width: 767px) {
+  .aboutus-layout {
+    display: block; /* stop grid/flex interactions */
+  }
+
+  .aboutus-nav,
+  .aboutus-content {
+    position: static;
+    float: none;
+    width: 100%;
+    max-width: none;
+  }
+
+  .aboutus-nav {
+    margin-bottom: 1.5rem;
   }
 }
