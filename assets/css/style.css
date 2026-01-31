@@ -566,21 +566,34 @@ main.section {
   }
 }
 
-/* About Us – mobile: force nav to stack above content */
-@media (max-width: 767px) {
-  .aboutus-layout {
-    display: block; /* stop grid/flex interactions */
-  }
 
-  .aboutus-nav,
-  .aboutus-content {
-    position: static;
-    float: none;
-    width: 100%;
-    max-width: none;
+/* ───────────────────────────────────────────────────────────────────────── */
+/* About Us nav — force vertical stacking on mobile (highest specificity) */
+/* ───────────────────────────────────────────────────────────────────────── */
+@media screen and (max-width: 767px) {
+  .aboutus-layout {
+    display: block !important;
+    padding-top: 0 !important;
   }
 
   .aboutus-nav {
-    margin-bottom: 1.5rem;
+    position: static !important;
+    float: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    top: auto !important;
+    left: auto !important;
+    margin-bottom: 1.5rem !important;
+    transform: none !important;
+  }
+
+  .aboutus-nav nav ul {
+    display: block !important;
+  }
+
+  .aboutus-content {
+    width: 100% !important;
+    position: static !important;
+    float: none !important;
   }
 }
