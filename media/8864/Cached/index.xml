@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>kata seminar opening.jpg</originalFileName>
+    <size>554575</size>
+    <dateLastModified>Thu, 05 Jan 2012 05:02:26 GMT</dateLastModified>
+    <width>2048</width>
+    <height>1365</height>
+    <cachedImage>
+      <fileName>5m5fw1fd.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 16:47:14 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 03:29:46 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>jz5i1q2v.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 15:03:08 GMT</dateCreated>
+      <dateLastAccessed>Fri, 30 Jan 2026 17:39:56 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>67</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>evwjsglz.jpeg</fileName>
+      <dateCreated>Sun, 09 Jul 2017 10:27:10 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 05:43:39 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>2048</width>
+      <height>1365</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

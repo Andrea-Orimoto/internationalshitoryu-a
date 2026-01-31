@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>08-Demonstrating Throw Techniques.jpg</originalFileName>
+    <size>165282</size>
+    <dateLastModified>Mon, 17 Oct 2011 01:54:46 GMT</dateLastModified>
+    <width>911</width>
+    <height>683</height>
+    <cachedImage>
+      <fileName>c4zcop41.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 16:47:35 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:07:32 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>yqtnrm0m.jpeg</fileName>
+      <dateCreated>Sun, 19 Feb 2017 18:40:25 GMT</dateCreated>
+      <dateLastAccessed>Tue, 27 Jan 2026 23:47:37 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>edpccssw.jpeg</fileName>
+      <dateCreated>Thu, 02 Sep 2021 02:25:21 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 02:11:49 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>911</width>
+      <height>683</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

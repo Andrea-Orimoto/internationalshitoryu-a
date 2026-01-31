@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>dsc01528.jpg</originalFileName>
+    <size>937008</size>
+    <dateLastModified>Sun, 23 Dec 2012 08:24:00 GMT</dateLastModified>
+    <width>1400</width>
+    <height>1050</height>
+    <cachedImage>
+      <fileName>apw2quc5.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 16:47:08 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:03:30 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>lqbl4ney.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 14:26:40 GMT</dateCreated>
+      <dateLastAccessed>Thu, 22 Jan 2026 03:25:11 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>tqgrkja0.jpeg</fileName>
+      <dateCreated>Sun, 09 Jul 2017 10:26:17 GMT</dateCreated>
+      <dateLastAccessed>Sun, 02 Feb 2025 20:22:10 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1400</width>
+      <height>1050</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

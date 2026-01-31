@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>Hanshi Thiry correcting kihon.jpg</originalFileName>
+    <size>480065</size>
+    <dateLastModified>Thu, 05 Jan 2012 05:02:22 GMT</dateLastModified>
+    <width>2048</width>
+    <height>1275</height>
+    <cachedImage>
+      <fileName>bmakmmkq.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 16:47:18 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:04:03 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>600</width>
+      <height>374</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>dciqkwjt.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 15:06:12 GMT</dateCreated>
+      <dateLastAccessed>Wed, 28 Jan 2026 02:26:24 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>100</width>
+      <height>62</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>5v5ortxy.jpeg</fileName>
+      <dateCreated>Sun, 29 Sep 2019 06:02:23 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 05:47:47 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>2048</width>
+      <height>1275</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

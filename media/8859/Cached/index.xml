@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>Hanshi Thiry correcting neko ashi dachi.jpg</originalFileName>
+    <size>413069</size>
+    <dateLastModified>Thu, 05 Jan 2012 05:02:24 GMT</dateLastModified>
+    <width>1365</width>
+    <height>2048</height>
+    <cachedImage>
+      <fileName>zdme2mgo.jpeg</fileName>
+      <dateCreated>Tue, 14 Feb 2017 16:47:19 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Jan 2026 18:04:04 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>400</width>
+      <height>600</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>j2jh0j23.jpeg</fileName>
+      <dateCreated>Mon, 20 Feb 2017 17:42:08 GMT</dateCreated>
+      <dateLastAccessed>Wed, 28 Jan 2026 11:40:13 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>67</width>
+      <height>100</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+    </cachedImage>
+    <cachedImage>
+      <fileName>gi5givqg.jpeg</fileName>
+      <dateCreated>Sun, 29 Sep 2019 06:02:28 GMT</dateCreated>
+      <dateLastAccessed>Thu, 25 Dec 2025 05:41:21 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>1365</width>
+      <height>2048</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

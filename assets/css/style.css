@@ -250,10 +250,51 @@ nav .site-logo {
 
 /* --- Navigation --- */
 
+/* =============================
+   Forced visible hamburger menu
+   ============================= */
+
+/* Default: hide nav toggle */
 .nav-toggle {
-    display: none;
-    /* HIDE hamburger by default */
+  display: none !important;
+  font-size: 1.8rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  z-index: 999;
+  color: #222; /* ensure visible */
 }
+
+/* Show only on small screens */
+@media only screen and (max-width: 1024px) {
+  .nav-toggle {
+    display: block !important;
+  }
+
+  /* Hide desktop nav when mobile */
+  #siteNavigation ul {
+    display: none;
+  }
+
+  /* When open */
+  #siteNavigation ul.open {
+    display: block;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: white;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    z-index: 997;
+  }
+
+  /* Ensure links are visible */
+  #siteNavigation ul.open a {
+    display: block;
+    margin: 0.5rem 0;
+  }
+}
+
 
 #siteNavigation ul {
     display: flex;
