@@ -615,3 +615,11 @@ main.section {
     float: none !important;
   }
 }
+
+/* Home page: reduce gap below header */
+main,
+.hero,
+.homepage-content {
+  margin-top: 0;
+  padding-top: 0;
+}
